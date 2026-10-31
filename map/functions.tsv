@@ -1,0 +1,1320 @@
+address	size	file	name	brew	file_from	restored
+01ff8000	1b4	sdk/head	FUN_01ff8000		before the game code	
+01ff81b4	40	sdk/head	FUN_01ff81b4		before the game code	
+01ff81f4	70	sdk/head	FUN_01ff81f4		before the game code	
+01ff8264	64	sdk/head	FUN_01ff8264		before the game code	
+01ff82c8	7ed6	sdk/head	FUN_01ff82c8		before the game code	
+0200019e	e0	sdk/head	FUN_0200019e		before the game code	
+0200027e	c8	sdk/head	SVC_WaitByLoop		before the game code	
+02000346	23c	sdk/head	SVC_CpuSet		before the game code	
+02000582	182	sdk/head	FUN_02000582		before the game code	
+02000704	fc	sdk/head	FUN_02000704		before the game code	
+02000800	13c	sdk/head	_start		before the game code	
+0200093c	14	sdk/head	FUN_0200093c		before the game code	
+02000950	ac	sdk/head	FUN_02000950		before the game code	
+020009fc	7c	sdk/head	FUN_020009fc		before the game code	
+02000a78	e8	sdk/head	FUN_02000a78		before the game code	
+02000b60	4	sdk/head	FUN_02000b60		before the game code	
+02000b64	40	sdk/head	FUN_02000b64		before the game code	
+02000ba4	8b4	sdk/head	FUN_02000ba4		before the game code	
+02001458	158	sdk/head	FUN_02001458		before the game code	
+020015b0	2c	sdk/head	FUN_020015b0		before the game code	
+020015dc	10	sdk/head	FUN_020015dc		before the game code	
+020015ec	24	sdk/head	FUN_020015ec		before the game code	
+02001610	38	sdk/head	FUN_02001610		before the game code	
+02001648	30	sdk/head	FUN_02001648		before the game code	
+02001678	28	sdk/head	FUN_02001678		before the game code	
+020016a0	3c	sdk/head	FUN_020016a0		before the game code	
+020016dc	84	sdk/head	FUN_020016dc		before the game code	
+02001760	118	sdk/head	FUN_02001760		before the game code	
+02001878	12c	sdk/head	FUN_02001878		before the game code	
+020019a4	1a8	sdk/head	FUN_020019a4		before the game code	
+02001b4c	4	sdk/head	FUN_02001b4c		before the game code	
+02001b50	14c	sdk/head	FUN_02001b50		before the game code	
+02001c9c	34	sdk/head	FUN_02001c9c		before the game code	
+02001cd0	3c	sdk/head	FUN_02001cd0		before the game code	
+02001d0c	48	sdk/head	FUN_02001d0c		before the game code	
+02001d54	68	sdk/head	FUN_02001d54		before the game code	
+02001dbc	1c	sdk/head	FUN_02001dbc		before the game code	
+02001dd8	60	sdk/head	FUN_02001dd8		before the game code	
+02001e38	b8	sdk/head	FUN_02001e38		before the game code	
+02001ef0	1d8	sdk/head	FUN_02001ef0		before the game code	
+020020c8	e8	sdk/head	FUN_020020c8		before the game code	
+020021b0	20	sdk/head	FUN_020021b0		before the game code	
+020021d0	a8	sdk/head	FUN_020021d0		before the game code	
+02002278	34	sdk/head	FUN_02002278		before the game code	
+020022ac	14	sdk/head	FUN_020022ac		before the game code	
+020022c0	14	sdk/head	FUN_020022c0		before the game code	
+020022d4	e0	sdk/head	FUN_020022d4		before the game code	
+020023b4	14	sdk/head	FUN_020023b4		before the game code	
+020023c8	74	sdk/head	FUN_020023c8		before the game code	
+0200243c	28	sdk/head	FUN_0200243c		before the game code	
+02002464	1c	sdk/head	FUN_02002464		before the game code	
+02002480	1c	sdk/head	FUN_02002480		before the game code	
+0200249c	1c	sdk/head	FUN_0200249c		before the game code	
+020024b8	1c	sdk/head	FUN_020024b8		before the game code	
+020024d4	6c	sdk/head	FUN_020024d4		before the game code	
+02002540	98	sdk/head	FUN_02002540		before the game code	
+020025d8	90	sdk/head	FUN_020025d8		before the game code	
+02002668	58	sdk/head	FUN_02002668		before the game code	
+020026c0	28	sdk/head	FUN_020026c0		before the game code	
+020026e8	30	sdk/head	FUN_020026e8		before the game code	
+02002718	30	sdk/head	FUN_02002718		before the game code	
+02002748	2c	sdk/head	FUN_02002748		before the game code	
+02002774	1d0	sdk/head	FUN_02002774		before the game code	
+02002944	2c4	sdk/head	FUN_02002944		before the game code	
+02002c08	18c	sdk/head	FUN_02002c08		before the game code	
+02002d94	3c	sdk/head	FUN_02002d94		before the game code	
+02002dd0	3c	sdk/head	FUN_02002dd0		before the game code	
+02002e0c	7c	sdk/head	FUN_02002e0c		before the game code	
+02002e88	78	sdk/head	FUN_02002e88		before the game code	
+02002f00	108	sdk/head	FUN_02002f00		before the game code	
+02003008	18	sdk/head	FUN_02003008		before the game code	
+02003020	88	sdk/head	FUN_02003020		before the game code	
+020030a8	48	sdk/head	FUN_020030a8		before the game code	
+020030f0	2c	sdk/head	FUN_020030f0		before the game code	
+0200311c	30	sdk/head	FUN_0200311c		before the game code	
+0200314c	30	sdk/head	FUN_0200314c		before the game code	
+0200317c	2c	sdk/head	FUN_0200317c		before the game code	
+020031a8	34	sdk/head	FUN_020031a8		before the game code	
+020031dc	cc	sdk/head	FUN_020031dc		before the game code	
+020032a8	4c	sdk/head	FUN_020032a8		before the game code	
+020032f4	10	sdk/head	FUN_020032f4		before the game code	
+02003304	74	sdk/head	FUN_02003304		before the game code	
+02003378	10	sdk/head	FUN_02003378		before the game code	
+02003388	6c	sdk/head	FUN_02003388		before the game code	
+020033f4	20	sdk/head	FUN_020033f4		before the game code	
+02003414	c	sdk/head	thunk_FUN_020033f4		before the game code	
+02003420	50	sdk/head	FUN_02003420		before the game code	
+02003470	1c	sdk/head	FUN_02003470		before the game code	
+0200348c	4c	sdk/head	FUN_0200348c		before the game code	
+020034d8	8	sdk/head	FUN_020034d8		before the game code	
+020034e0	58	sdk/head	FUN_020034e0		before the game code	
+02003538	30	sdk/head	FUN_02003538		before the game code	
+02003568	30	sdk/head	FUN_02003568		before the game code	
+02003598	54	sdk/head	FUN_02003598		before the game code	
+020035ec	58	sdk/head	FUN_020035ec		before the game code	
+02003644	28	sdk/head	FUN_02003644		before the game code	
+0200366c	87c	sdk/head	FUN_0200366c		before the game code	
+02003ee8	18	sdk/head	FUN_02003ee8		before the game code	
+02003f00	78	sdk/head	FUN_02003f00		before the game code	
+02003f78	34	sdk/head	FUN_02003f78		before the game code	
+02003fac	54	sdk/head	FUN_02003fac		before the game code	
+02004000	30	sdk/head	FUN_02004000		before the game code	
+02004030	60	sdk/head	FUN_02004030		before the game code	
+02004090	48	sdk/head	FUN_02004090		before the game code	
+020040d8	c8	sdk/head	FUN_020040d8		before the game code	
+020041a0	148	sdk/head	FUN_020041a0		before the game code	
+020042e8	fc	sdk/head	FUN_020042e8		before the game code	
+020043e4	20	sdk/head	FUN_020043e4		before the game code	
+02004404	5c	sdk/head	FUN_02004404		before the game code	
+02004460	38	sdk/head	FUN_02004460		before the game code	
+02004498	5c	sdk/head	FUN_02004498		before the game code	
+020044f4	50	sdk/head	FUN_020044f4		before the game code	
+02004544	68	sdk/head	FUN_02004544		before the game code	
+020045ac	28	sdk/head	FUN_020045ac		before the game code	
+020045d4	28	sdk/head	FUN_020045d4		before the game code	
+020045fc	1c	sdk/head	FUN_020045fc		before the game code	
+02004618	a8	sdk/head	FUN_02004618		before the game code	
+020046c0	c8	sdk/head	FUN_020046c0		before the game code	
+02004788	28	sdk/head	FUN_02004788		before the game code	
+020047b0	10	sdk/head	FUN_020047b0		before the game code	
+020047c0	34	sdk/head	FUN_020047c0		before the game code	
+020047f4	34	sdk/head	FUN_020047f4		before the game code	
+02004828	8	sdk/head	FUN_02004828		before the game code	
+02004830	6c	sdk/head	FUN_02004830		before the game code	
+0200489c	4c	sdk/head	FUN_0200489c		before the game code	
+020048e8	44	sdk/head	FUN_020048e8		before the game code	
+0200492c	8	sdk/head	FUN_0200492c		before the game code	
+02004934	18	sdk/head	FUN_02004934		before the game code	
+0200494c	18	sdk/head	FUN_0200494c		before the game code	
+02004964	84	sdk/head	FUN_02004964		before the game code	
+020049e8	5c	sdk/head	FUN_020049e8		before the game code	
+02004a44	3c	sdk/head	FUN_02004a44		before the game code	
+02004a80	74	sdk/head	FUN_02004a80		before the game code	
+02004af4	24	sdk/head	FUN_02004af4		before the game code	
+02004b18	24	sdk/head	FUN_02004b18		before the game code	
+02004b3c	34	sdk/head	FUN_02004b3c		before the game code	
+02004b70	1c	sdk/head	FUN_02004b70		before the game code	
+02004b8c	1c	sdk/head	FUN_02004b8c		before the game code	
+02004ba8	24	sdk/head	FUN_02004ba8		before the game code	
+02004bcc	c	sdk/head	FUN_02004bcc		before the game code	
+02004bd8	1c	sdk/head	FUN_02004bd8		before the game code	
+02004bf4	20	sdk/head	FUN_02004bf4		before the game code	
+02004c14	48	sdk/head	FUN_02004c14		before the game code	
+02004c5c	104	sdk/head	FUN_02004c5c		before the game code	
+02004d60	6c	sdk/head	FUN_02004d60		before the game code	
+02004dcc	14	sdk/head	FUN_02004dcc		before the game code	
+02004de0	14	sdk/head	FUN_02004de0		before the game code	
+02004df4	e4	sdk/head	FUN_02004df4		before the game code	
+02004ed8	a8	sdk/head	FUN_02004ed8		before the game code	
+02004f80	14	sdk/head	FUN_02004f80		before the game code	
+02004f94	14	sdk/head	FUN_02004f94		before the game code	
+02004fa8	1c	sdk/head	FUN_02004fa8		before the game code	
+02004fc4	28	sdk/head	FUN_02004fc4		before the game code	
+02004fec	a8	sdk/head	FUN_02004fec		before the game code	
+02005094	108	sdk/head	FUN_02005094		before the game code	
+0200519c	68	sdk/head	FUN_0200519c		before the game code	
+02005204	30	sdk/head	FUN_02005204		before the game code	
+02005234	a8	sdk/head	FUN_02005234		before the game code	
+020052dc	14	sdk/head	FUN_020052dc		before the game code	
+020052f0	98	sdk/head	FUN_020052f0		before the game code	
+02005388	48	sdk/head	FUN_02005388		before the game code	
+020053d0	4	sdk/head	FUN_020053d0		before the game code	
+020053d4	94	sdk/head	FUN_020053d4		before the game code	
+02005468	64	sdk/head	FUN_02005468		before the game code	
+020054cc	68	sdk/head	FUN_020054cc		before the game code	
+02005534	14	sdk/head	FUN_02005534		before the game code	
+02005548	10	sdk/head	FUN_02005548		before the game code	
+02005558	10	sdk/head	FUN_02005558		before the game code	
+02005568	14	sdk/head	FUN_02005568		before the game code	
+0200557c	8	sdk/head	FUN_0200557c		before the game code	
+02005584	8	sdk/head	FUN_02005584		before the game code	
+0200558c	e4	sdk/head	FUN_0200558c		before the game code	
+02005670	14	sdk/head	FUN_02005670		before the game code	
+02005684	90	sdk/head	FUN_02005684		before the game code	
+02005714	54	sdk/head	FUN_02005714		before the game code	
+02005768	1c	sdk/head	FUN_02005768		before the game code	
+02005784	e0	sdk/head	FUN_02005784		before the game code	
+02005864	a0	sdk/head	FUN_02005864	FUN_0000002c 0x0000002c	before the game code	
+02005904	8c	sdk/head	FUN_02005904		before the game code	
+02005990	40	sdk/head	FUN_02005990		before the game code	
+020059d0	10	sdk/head	FUN_020059d0		before the game code	
+020059e0	12c	sdk/head	FUN_020059e0		before the game code	
+02005b0c	6c	sdk/head	FUN_02005b0c		before the game code	
+02005b78	10	sdk/head	FUN_02005b78		before the game code	
+02005b88	f0	sdk/head	FUN_02005b88		before the game code	
+02005c78	48	sdk/head	FUN_02005c78		before the game code	
+02005cc0	14	sdk/head	FUN_02005cc0		before the game code	
+02005cd4	14	sdk/head	FUN_02005cd4		before the game code	
+02005ce8	18	sdk/head	FUN_02005ce8		before the game code	
+02005d00	14	sdk/head	FUN_02005d00		before the game code	
+02005d14	18	sdk/head	FUN_02005d14		before the game code	
+02005d2c	c	sdk/head	FUN_02005d2c		before the game code	
+02005d38	c	sdk/head	FUN_02005d38		before the game code	
+02005d44	c	sdk/head	FUN_02005d44		before the game code	
+02005d50	1c	sdk/head	FUN_02005d50		before the game code	
+02005d6c	54	sdk/head	FUN_02005d6c		before the game code	
+02005dc0	34	sdk/head	FUN_02005dc0		before the game code	
+02005df4	84	sdk/head	FUN_02005df4		before the game code	
+02005e78	8	sdk/head	FUN_02005e78		before the game code	
+02005e80	34	sdk/head	FUN_02005e80		before the game code	
+02005eb4	88	sdk/head	FUN_02005eb4		before the game code	
+02005f3c	10	sdk/head	FUN_02005f3c		before the game code	
+02005f4c	c	sdk/head	FUN_02005f4c		before the game code	
+02005f58	10	sdk/head	FUN_02005f58		before the game code	
+02005f68	10	sdk/head	FUN_02005f68		before the game code	
+02005f78	80	sdk/head	FUN_02005f78		before the game code	
+02005ff8	70	sdk/head	FUN_02005ff8		before the game code	
+02006068	6c	sdk/head	FUN_02006068		before the game code	
+020060d4	7c	sdk/head	FUN_020060d4		before the game code	
+02006150	84	sdk/head	FUN_02006150		before the game code	
+020061d4	54	sdk/head	FUN_020061d4		before the game code	
+02006228	18	sdk/head	FUN_02006228		before the game code	
+02006240	1c	sdk/head	FUN_02006240		before the game code	
+0200625c	14	sdk/head	App_getMemUsed		before the game code	
+02006270	18	sdk/head	FUN_02006270		before the game code	
+02006288	4c	sdk/head	FUN_02006288		before the game code	
+020062d4	54	sdk/head	FUN_020062d4		before the game code	
+02006328	94	sdk/head	FUN_02006328		before the game code	
+020063bc	130	sdk/head	FUN_020063bc		before the game code	
+020064ec	8	sdk/head	FUN_020064ec		before the game code	
+020064f4	74	sdk/head	FUN_020064f4		before the game code	
+02006568	30	sdk/head	FUN_02006568		before the game code	
+02006598	100	sdk/head	FUN_02006598		before the game code	
+02006698	18	sdk/head	FUN_02006698		before the game code	
+020066b0	28	sdk/head	FUN_020066b0		before the game code	
+020066d8	64	sdk/head	FUN_020066d8		before the game code	
+0200673c	20	sdk/head	FUN_0200673c		before the game code	
+0200675c	28	sdk/head	FUN_0200675c		before the game code	
+02006784	20	sdk/head	FUN_02006784		before the game code	
+020067a4	4c	sdk/head	FUN_020067a4		before the game code	
+020067f0	20	sdk/head	FUN_020067f0		before the game code	
+02006810	44	sdk/head	FUN_02006810		before the game code	
+02006854	38	sdk/head	FUN_02006854		before the game code	
+0200688c	d4	sdk/head	FUN_0200688c		before the game code	
+02006960	110	sdk/head	FUN_02006960		before the game code	
+02006a70	88	sdk/head	FUN_02006a70		before the game code	
+02006af8	38	sdk/head	FUN_02006af8		before the game code	
+02006b30	1bc	sdk/head	FUN_02006b30		before the game code	
+02006cec	3c	sdk/head	FUN_02006cec		before the game code	
+02006d28	3c	sdk/head	FUN_02006d28		before the game code	
+02006d64	1c	sdk/head	FUN_02006d64		before the game code	
+02006d80	24	sdk/head	FUN_02006d80		before the game code	
+02006da4	60	sdk/head	FUN_02006da4		before the game code	
+02006e04	28	sdk/head	FUN_02006e04		before the game code	
+02006e2c	48	sdk/head	FUN_02006e2c		before the game code	
+02006e74	40	sdk/head	FUN_02006e74		before the game code	
+02006eb4	30	sdk/head	FUN_02006eb4		before the game code	
+02006ee4	20	sdk/head	FUN_02006ee4		before the game code	
+02006f04	44	sdk/head	FUN_02006f04		before the game code	
+02006f48	2c	sdk/head	FUN_02006f48		before the game code	
+02006f74	28	sdk/head	FUN_02006f74		before the game code	
+02006f9c	7c	sdk/head	FUN_02006f9c		before the game code	
+02007018	c	sdk/head	thunk_FUN_02007024		before the game code	
+02007024	100	sdk/head	FUN_02007024		before the game code	
+02007124	4c	sdk/head	FUN_02007124		before the game code	
+02007170	24	sdk/head	FUN_02007170		before the game code	
+02007194	88	sdk/head	FUN_02007194		before the game code	
+0200721c	118	sdk/head	FUN_0200721c		before the game code	
+02007334	5c	sdk/head	FUN_02007334		before the game code	
+02007390	190	sdk/head	FUN_02007390		before the game code	
+02007520	50	sdk/head	FUN_02007520		before the game code	
+02007570	c0	sdk/head	FUN_02007570		before the game code	
+02007630	34	sdk/head	FUN_02007630		before the game code	
+02007664	2c	sdk/head	FUN_02007664		before the game code	
+02007690	2c	sdk/head	FUN_02007690		before the game code	
+020076bc	98	sdk/head	FUN_020076bc		before the game code	
+02007754	12c	sdk/head	FUN_02007754		before the game code	
+02007880	1e4	sdk/head	FUN_02007880		before the game code	
+02007a64	3ac	sdk/head	FUN_02007a64		before the game code	
+02007e10	b0	sdk/head	FUN_02007e10		before the game code	
+02007ec0	58	sdk/head	FUN_02007ec0		before the game code	
+02007f18	1c	sdk/head	FUN_02007f18		before the game code	
+02007f34	20	sdk/head	FUN_02007f34		before the game code	
+02007f54	214	sdk/head	FUN_02007f54		before the game code	
+02008168	94	sdk/head	FUN_02008168		before the game code	
+020081fc	44	sdk/head	FUN_020081fc		before the game code	
+02008240	1a4	sdk/head	FUN_02008240		before the game code	
+020083e4	2c	sdk/head	FUN_020083e4		before the game code	
+02008410	40	sdk/head	FUN_02008410		before the game code	
+02008450	b4	sdk/head	FUN_02008450		before the game code	
+02008504	70	sdk/head	FUN_02008504		before the game code	
+02008574	9c	sdk/head	FUN_02008574		before the game code	
+02008610	70	sdk/head	FUN_02008610		before the game code	
+02008680	20	sdk/head	FUN_02008680		before the game code	
+020086a0	84	sdk/head	FUN_020086a0		before the game code	
+02008724	28	sdk/head	FUN_02008724		before the game code	
+0200874c	28	sdk/head	FUN_0200874c		before the game code	
+02008774	144	sdk/head	FUN_02008774		before the game code	
+020088b8	7c	sdk/head	FUN_020088b8		before the game code	
+02008934	40	sdk/head	FUN_02008934		before the game code	
+02008974	70	sdk/head	FUN_02008974		before the game code	
+020089e4	48	sdk/head	FUN_020089e4		before the game code	
+02008a2c	3c	sdk/head	FUN_02008a2c		before the game code	
+02008a68	c0	sdk/head	FUN_02008a68		before the game code	
+02008b28	10	sdk/head	FUN_02008b28		before the game code	
+02008b38	6c	sdk/head	FUN_02008b38		before the game code	
+02008ba4	24	sdk/head	FUN_02008ba4		before the game code	
+02008bc8	50	sdk/head	FUN_02008bc8		before the game code	
+02008c18	7c	sdk/head	FUN_02008c18		before the game code	
+02008c94	148	sdk/head	FUN_02008c94		before the game code	
+02008ddc	50	sdk/head	FUN_02008ddc		before the game code	
+02008e2c	40	sdk/head	FUN_02008e2c		before the game code	
+02008e6c	3c	sdk/head	FUN_02008e6c		before the game code	
+02008ea8	280	sdk/head	FUN_02008ea8		before the game code	
+02009128	78	sdk/head	FUN_02009128		before the game code	
+020091a0	94	sdk/head	FUN_020091a0		before the game code	
+02009234	128	sdk/head	FUN_02009234		before the game code	
+0200935c	94	sdk/head	FUN_0200935c		before the game code	
+020093f0	4c	sdk/head	FUN_020093f0		before the game code	
+0200943c	1c	sdk/head	FUN_0200943c		before the game code	
+02009458	1ec	sdk/head	FUN_02009458		before the game code	
+02009644	124	sdk/head	FUN_02009644		before the game code	
+02009768	18	sdk/head	FUN_02009768		before the game code	
+02009780	3c	sdk/head	FUN_02009780		before the game code	
+020097bc	48	sdk/head	FUN_020097bc		before the game code	
+02009804	40	sdk/head	FUN_02009804		before the game code	
+02009844	a4	sdk/head	FUN_02009844		before the game code	
+020098e8	c8	sdk/head	FUN_020098e8		before the game code	
+020099b0	94	sdk/head	FUN_020099b0		before the game code	
+02009a44	60	sdk/head	FUN_02009a44		before the game code	
+02009aa4	6c	sdk/head	FUN_02009aa4		before the game code	
+02009b10	28	sdk/head	FUN_02009b10		before the game code	
+02009b38	54	sdk/head	FUN_02009b38		before the game code	
+02009b8c	28	sdk/head	FUN_02009b8c		before the game code	
+02009bb4	7c	sdk/head	FUN_02009bb4		before the game code	
+02009c30	28	sdk/head	FUN_02009c30		before the game code	
+02009c58	ac	sdk/head	FUN_02009c58		before the game code	
+02009d04	28	sdk/head	FUN_02009d04		before the game code	
+02009d2c	5c	sdk/head	FUN_02009d2c		before the game code	
+02009d88	2c	sdk/head	FUN_02009d88		before the game code	
+02009db4	230	sdk/head	FUN_02009db4		before the game code	
+02009fe4	d4	sdk/head	FUN_02009fe4		before the game code	
+0200a0b8	20	sdk/head	FUN_0200a0b8		before the game code	
+0200a0d8	68	sdk/head	FUN_0200a0d8		before the game code	
+0200a140	28	sdk/head	FUN_0200a140		before the game code	
+0200a168	18	sdk/head	FUN_0200a168		before the game code	
+0200a180	6c	sdk/head	FUN_0200a180		before the game code	
+0200a1ec	70	sdk/head	FUN_0200a1ec		before the game code	
+0200a25c	38	sdk/head	FUN_0200a25c		before the game code	
+0200a294	74	sdk/head	FUN_0200a294		before the game code	
+0200a308	38	sdk/head	FUN_0200a308		before the game code	
+0200a340	550	sdk/head	FUN_0200a340		before the game code	
+0200a890	80	sdk/head	FUN_0200a890		before the game code	
+0200a910	18	sdk/head	FUN_0200a910		before the game code	
+0200a928	10	sdk/head	FUN_0200a928		before the game code	
+0200a938	10	sdk/head	FUN_0200a938		before the game code	
+0200a948	10	sdk/head	FUN_0200a948		before the game code	
+0200a958	28	sdk/head	FUN_0200a958		before the game code	
+0200a980	bc	sdk/head	FUN_0200a980		before the game code	
+0200aa3c	3c	sdk/head	FUN_0200aa3c		before the game code	
+0200aa78	84	sdk/head	FUN_0200aa78		before the game code	
+0200aafc	8c	sdk/head	FUN_0200aafc		before the game code	
+0200ab88	104	sdk/head	FUN_0200ab88		before the game code	
+0200ac8c	10	sdk/head	FUN_0200ac8c		before the game code	
+0200ac9c	18	sdk/head	FUN_0200ac9c		before the game code	
+0200acb4	10	sdk/head	FUN_0200acb4		before the game code	
+0200acc4	4c	sdk/head	FUN_0200acc4		before the game code	
+0200ad10	14	sdk/head	FUN_0200ad10		before the game code	
+0200ad24	1c	sdk/head	FUN_0200ad24		before the game code	
+0200ad40	1c	sdk/head	FUN_0200ad40		before the game code	
+0200ad5c	10	sdk/head	FUN_0200ad5c		before the game code	
+0200ad6c	10	sdk/head	FUN_0200ad6c		before the game code	
+0200ad7c	288	sdk/head	FUN_0200ad7c		before the game code	
+0200b004	1d8	sdk/head	FUN_0200b004		before the game code	
+0200b1dc	e8	sdk/head	FUN_0200b1dc		before the game code	
+0200b2c4	14	sdk/head	FUN_0200b2c4		before the game code	
+0200b2d8	138	sdk/head	FUN_0200b2d8		before the game code	
+0200b410	8c	sdk/head	FUN_0200b410		before the game code	
+0200b49c	60	sdk/head	FUN_0200b49c		before the game code	
+0200b4fc	54	sdk/head	FUN_0200b4fc		before the game code	
+0200b550	d0	sdk/head	FUN_0200b550		before the game code	
+0200b620	164	sdk/head	FUN_0200b620		before the game code	
+0200b784	e8	sdk/head	FUN_0200b784		before the game code	
+0200b86c	5c	sdk/head	FUN_0200b86c		before the game code	
+0200b8c8	98	sdk/head	FUN_0200b8c8		before the game code	
+0200b960	f8	sdk/head	FUN_0200b960		before the game code	
+0200ba58	64	sdk/head	FUN_0200ba58		before the game code	
+0200babc	c	sdk/head	thunk_FUN_0200acc4		before the game code	
+0200bac8	c	sdk/head	FUN_0200bac8		before the game code	
+0200bad4	34	sdk/head	FUN_0200bad4		before the game code	
+0200bb08	58	sdk/head	FUN_0200bb08		before the game code	
+0200bb60	154	sdk/head	FUN_0200bb60		before the game code	
+0200bcb4	2c	sdk/head	FUN_0200bcb4		before the game code	
+0200bce0	54	sdk/head	FUN_0200bce0		before the game code	
+0200bd34	10	sdk/head	FUN_0200bd34		before the game code	
+0200bd44	10	sdk/head	FUN_0200bd44		before the game code	
+0200bd54	8c	sdk/head	FUN_0200bd54		before the game code	
+0200bde0	60	sdk/head	FUN_0200bde0		before the game code	
+0200be40	50	sdk/head	FUN_0200be40		before the game code	
+0200be90	38	sdk/head	FUN_0200be90		before the game code	
+0200bec8	30	sdk/head	FUN_0200bec8		before the game code	
+0200bef8	3c	sdk/head	FUN_0200bef8		before the game code	
+0200bf34	28	sdk/head	FUN_0200bf34		before the game code	
+0200bf5c	18	sdk/head	FUN_0200bf5c		before the game code	
+0200bf74	10c	sdk/head	FUN_0200bf74		before the game code	
+0200c080	48	sdk/head	FUN_0200c080		before the game code	
+0200c0c8	34	sdk/head	FUN_0200c0c8		before the game code	
+0200c0fc	5c	sdk/head	FUN_0200c0fc		before the game code	
+0200c158	24	sdk/head	FUN_0200c158		before the game code	
+0200c17c	50	sdk/head	FUN_0200c17c		before the game code	
+0200c1cc	48	sdk/head	FUN_0200c1cc		before the game code	
+0200c214	b4	sdk/head	FUN_0200c214		before the game code	
+0200c2c8	1f4	sdk/head	FUN_0200c2c8		before the game code	
+0200c4bc	2c	sdk/head	FUN_0200c4bc		before the game code	
+0200c4e8	5c	sdk/head	FUN_0200c4e8		before the game code	
+0200c544	10	sdk/head	FUN_0200c544		before the game code	
+0200c554	14	sdk/head	FUN_0200c554		before the game code	
+0200c568	2c	sdk/head	FUN_0200c568		before the game code	
+0200c594	84	sdk/head	FUN_0200c594		before the game code	
+0200c618	158	sdk/head	FUN_0200c618		before the game code	
+0200c770	30	sdk/head	FUN_0200c770		before the game code	
+0200c7a0	10	sdk/head	FUN_0200c7a0		before the game code	
+0200c7b0	10	sdk/head	FUN_0200c7b0		before the game code	
+0200c7c0	10	sdk/head	FUN_0200c7c0		before the game code	
+0200c7d0	28	sdk/head	FUN_0200c7d0		before the game code	
+0200c7f8	40	sdk/head	FUN_0200c7f8		before the game code	
+0200c838	8c	sdk/head	FUN_0200c838		before the game code	
+0200c8c4	14	sdk/head	FUN_0200c8c4		before the game code	
+0200c8d8	f0	sdk/head	FUN_0200c8d8		before the game code	
+0200c9c8	28	sdk/head	FUN_0200c9c8		before the game code	
+0200c9f0	c	sdk/head	thunk_FUN_0200c9fc		before the game code	
+0200c9fc	20	sdk/head	FUN_0200c9fc		before the game code	
+0200ca1c	40	sdk/head	FUN_0200ca1c		before the game code	
+0200ca5c	28	sdk/head	FUN_0200ca5c		before the game code	
+0200ca84	24	sdk/head	FUN_0200ca84		before the game code	
+0200caa8	4c	sdk/head	FUN_0200caa8		before the game code	
+0200caf4	128	sdk/head	FUN_0200caf4		before the game code	
+0200cc1c	68	sdk/head	FUN_0200cc1c		before the game code	
+0200cc84	4	sdk/head	FUN_0200cc84		before the game code	
+0200cc88	30	sdk/head	FUN_0200cc88		before the game code	
+0200ccb8	88	sdk/head	FUN_0200ccb8		before the game code	
+0200cd40	120	sdk/head	FUN_0200cd40		before the game code	
+0200ce60	14	sdk/head	FUN_0200ce60		before the game code	
+0200ce74	1c	sdk/head	FUN_0200ce74		before the game code	
+0200ce90	78	sdk/head	FUN_0200ce90		before the game code	
+0200cf08	20	sdk/head	FUN_0200cf08		before the game code	
+0200cf28	2c	sdk/head	FUN_0200cf28		before the game code	
+0200cf54	590	sdk/head	FUN_0200cf54		before the game code	
+0200d4e4	24c	sdk/head	FUN_0200d4e4		before the game code	
+0200d730	2e0	sdk/head	FUN_0200d730		before the game code	
+0200da10	4dc	sdk/head	FUN_0200da10		before the game code	
+0200deec	124	sdk/head	FUN_0200deec		before the game code	
+0200e010	4	sdk/head	FUN_0200e010		before the game code	
+0200e014	760	sdk/head	FUN_0200e014		before the game code	
+0200e774	824	sdk/head	FUN_0200e774		before the game code	
+0200ef98	44	sdk/head	FUN_0200ef98		before the game code	
+0200efdc	68	sdk/head	FUN_0200efdc		before the game code	
+0200f044	18	sdk/head	FUN_0200f044		before the game code	
+0200f05c	2c	sdk/head	FUN_0200f05c		before the game code	
+0200f088	130	sdk/head	FUN_0200f088		before the game code	
+0200f1b8	1c	sdk/head	FUN_0200f1b8		before the game code	
+0200f1d4	50	sdk/head	FUN_0200f1d4		before the game code	
+0200f224	3c	sdk/head	FUN_0200f224		before the game code	
+0200f260	28	sdk/head	FUN_0200f260		before the game code	
+0200f288	20	sdk/head	FUN_0200f288		before the game code	
+0200f2a8	bc	sdk/head	FUN_0200f2a8		before the game code	
+0200f364	24c	sdk/head	FUN_0200f364		before the game code	
+0200f5b0	6c	sdk/head	FUN_0200f5b0		before the game code	
+0200f61c	50	sdk/head	FUN_0200f61c		before the game code	
+0200f66c	40	sdk/head	FUN_0200f66c		before the game code	
+0200f6ac	cc	sdk/head	FUN_0200f6ac		before the game code	
+0200f778	184	sdk/head	FUN_0200f778		before the game code	
+0200f8fc	9c	sdk/head	FUN_0200f8fc		before the game code	
+0200f998	384	sdk/head	FUN_0200f998		before the game code	
+0200fd1c	180	sdk/head	FUN_0200fd1c		before the game code	
+0200fe9c	a8	sdk/head	FUN_0200fe9c		before the game code	
+0200ff44	94	sdk/head	FUN_0200ff44		before the game code	
+0200ffd8	14	sdk/head	FUN_0200ffd8		before the game code	
+0200ffec	70	sdk/head	FUN_0200ffec		before the game code	
+0201005c	318	sdk/head	FUN_0201005c		before the game code	
+02010374	8c	sdk/head	FUN_02010374		before the game code	
+02010400	37c	sdk/head	FUN_02010400		before the game code	
+0201077c	3b4	sdk/head	FUN_0201077c		before the game code	
+02010b30	9c	sdk/head	FUN_02010b30		before the game code	
+02010bcc	8c	sdk/head	FUN_02010bcc		before the game code	
+02010c58	10	sdk/head	FUN_02010c58		before the game code	
+02010c68	1b0	sdk/head	FUN_02010c68		before the game code	
+02010e18	c	sdk/head	FUN_02010e18		before the game code	
+02010e24	3c	sdk/head	FUN_02010e24		before the game code	
+02010e60	20c	sdk/head	FUN_02010e60	FUN_00000344 0x00000344	before the game code	
+0201106c	8	sdk/head	FUN_0201106c		before the game code	
+02011074	1dc	sdk/head	FUN_02011074		before the game code	
+02011250	4	sdk/head	FUN_02011250		before the game code	
+02011254	14	sdk/head	FUN_02011254		before the game code	
+02011268	14	sdk/head	FUN_02011268		before the game code	
+0201127c	10	sdk/head	FUN_0201127c		before the game code	
+0201128c	50	sdk/head	FUN_0201128c		before the game code	
+020112dc	3c	sdk/head	FUN_020112dc		before the game code	
+02011318	8c	sdk/head	FUN_02011318		before the game code	
+020113a4	8c	sdk/head	FUN_020113a4		before the game code	
+02011430	64	sdk/head	FUN_02011430		before the game code	
+02011494	108	sdk/head	FUN_02011494		before the game code	
+0201159c	1c	sdk/head	FUN_0201159c		before the game code	
+020115b8	388	sdk/head	FUN_020115b8		before the game code	
+02011940	8b0	sdk/head	FUN_02011940		before the game code	
+020121f0	154	sdk/head	FUN_020121f0		before the game code	
+02012344	84	sdk/head	FUN_02012344		before the game code	
+020123c8	60	sdk/head	FUN_020123c8		before the game code	
+02012428	1dc	sdk/head	FUN_02012428		before the game code	
+02012604	5c	sdk/head	FUN_02012604		before the game code	
+02012660	ec	sdk/head	FUN_02012660		before the game code	
+0201274c	28	sdk/head	FUN_0201274c		before the game code	
+02012774	2c	sdk/head	FUN_02012774		before the game code	
+020127a0	44	sdk/head	FUN_020127a0		before the game code	
+020127e4	5c	sdk/head	FUN_020127e4		before the game code	
+02012840	b0	sdk/head	FUN_02012840		before the game code	
+020128f0	5c	sdk/head	FUN_020128f0		before the game code	
+0201294c	18	sdk/head	thunk_FUN_0200ca84		before the game code	
+02012964	18	sdk/head	FUN_02012964		before the game code	
+0201297c	1b0	sdk/head	FUN_0201297c		before the game code	
+02012b2c	5c	sdk/head	FUN_02012b2c		before the game code	
+02012b88	a0	sdk/head	FUN_02012b88		before the game code	
+02012c28	20	sdk/head	FUN_02012c28		before the game code	
+02012c48	30	sdk/head	FUN_02012c48		before the game code	
+02012c78	7c	sdk/head	FUN_02012c78		before the game code	
+02012cf4	c	sdk/head	thunk_FUN_0201127c		before the game code	
+02012d00	118	sdk/head	FUN_02012d00		before the game code	
+02012e18	f4	Util	Util_DirToAngle	Dir_toAngle 0x00001474	name	yes
+02012f0c	148	Util	Util_AngleToDir		name	yes
+02013054	24	App	FUN_02013054		cut Util|App (no calls, middle)	
+02013078	424	App	App_initSubsystems	App_initSubsystems 0x000281bc	name	
+0201349c	144	App	FUN_0201349c		between two App	
+020135e0	4c	App	FUN_020135e0		between two App	
+0201362c	d0	App	Applet_FUN_0201362c		between two App	
+020136fc	64	App	FUN_020136fc		between two App	
+02013760	20	App	App_setErrorCode	App_setErrorCode 0x00002618	name	yes
+02013780	10	App	App_setErrorCodeRaw		name	yes
+02013790	48	App	App_setErrorStr	App_setErrorStr 0x000025dc	name	yes
+020137d8	10	App	App_getErrorCode		name	yes
+020137e8	a4	App	FUN_020137e8		between two App	
+0201388c	74	App	FUN_0201388c		between two App	
+02013900	cc	App	Applet_resetCounters	Applet_resetCounters 0x00022280	between two App	
+020139cc	4	App	App_nop		name	yes
+020139d0	6c	App	Dbg_printf		between two App	yes
+02013a3c	70	App	FUN_02013a3c		between two App	
+02013aac	8c	App	FUN_02013aac		between two App	
+02013b38	24	App	FUN_02013b38		between two App	
+02013b5c	24	App	FUN_02013b5c		between two App	
+02013b80	4c	App	App_updateMemUsed		name	yes
+02013bcc	18	App	App_malloc		name	yes
+02013be4	18	App	App_free		name	yes
+02013bfc	c	App	thunk_FUN_02013bcc		between two App	
+02013c08	c	App	thunk_FUN_02013bcc		between two App	
+02013c14	14	App	App_delete		name	yes
+02013c28	14	App	App_deleteArray		name	yes
+02013c3c	b4	Camera	Camera_chainKeys		name	yes
+02013cf0	8c	Camera	Camera_snapToKey		name	yes
+02013d7c	1f8	Camera	Camera_Update		name	yes
+02013f74	20c	Camera	Camera_spline		name	yes
+02014180	90	Camera	Camera_splineAngle		name	yes
+02014210	4c	Canvas	FUN_02014210		cut Camera|Canvas by calls	
+0201425c	354	Canvas	FUN_0201425c		cut Camera|Canvas by calls	
+020145b0	64	Canvas	FUN_020145b0		cut Camera|Canvas by calls	
+02014614	92c	Canvas	FUN_02014614		cut Camera|Canvas by calls	
+02014f40	e8	Canvas	Canvas_startShake	Canvas_startShake 0x000279a4	name	
+02015028	27c	Canvas	FUN_02015028		between two Canvas	
+020152a4	2c	Canvas	FUN_020152a4		between two Canvas	
+020152d0	540	Canvas	Canvas_updateFacing	Canvas_updateFacing 0x0002b214	name	
+02015810	b8	Canvas	FUN_02015810		between two Canvas	
+020158c8	d0	Canvas	Canvas_getDirEventFlags	Canvas_getDirEventFlags 0x00012764	name	
+02015998	1c0	Canvas	Canvas_finishRotation	Canvas_finishRotation 0x00012578	name	
+02015b58	ac	Canvas	FUN_02015b58		between two Canvas	
+02015c04	1dc	Canvas	Canvas_attemptMove	Canvas_attemptMove 0x00005714	name	
+02015de0	24	Canvas	FUN_02015de0		between two Canvas	
+02015e04	78	Canvas	FUN_02015e04		between two Canvas	
+02015e7c	138	Canvas	FUN_02015e7c		between two Canvas	
+02015fb4	170	Canvas	FUN_02015fb4		between two Canvas	
+02016124	65c	Canvas	FUN_02016124		between two Canvas	
+02016780	18	Canvas	FUN_02016780		between two Canvas	
+02016798	1c	Canvas	FUN_02016798		between two Canvas	
+020167b4	1c	Canvas	FUN_020167b4		between two Canvas	
+020167d0	44	Canvas	FUN_020167d0		between two Canvas	
+02016814	14	Canvas	FUN_02016814		between two Canvas	
+02016828	2c	Canvas	FUN_02016828		between two Canvas	
+02016854	1e0	Canvas	FUN_02016854		between two Canvas	
+02016a34	244	Canvas	FUN_02016a34		between two Canvas	
+02016c78	2d4	Canvas	FUN_02016c78		between two Canvas	
+02016f4c	2c0	Canvas	FUN_02016f4c		between two Canvas	
+0201720c	1f8	Canvas	FUN_0201720c		between two Canvas	
+02017404	b0	Canvas	FUN_02017404		between two Canvas	
+020174b4	6a4	Canvas	Canvas_handlePlayingEvents	Canvas_handlePlayingEvents 0x00013f18	name	
+02017b58	578	Canvas	FUN_02017b58		between two Canvas	
+020180d0	28c	Canvas	FUN_020180d0		between two Canvas	
+0201835c	124	Canvas	FUN_0201835c		between two Canvas	
+02018480	500	Canvas	Canvas_loadMedia	Canvas_loadMedia 0x000197e8	name	
+02018980	2a0	Canvas	Canvas_combatTurnDone	Canvas_combatTurnDone 0x0000733c	name	
+02018c20	a8	Canvas	FUN_02018c20		between two Canvas	
+02018cc8	144	Canvas	FUN_02018cc8		between two Canvas	
+02018e0c	34c	Canvas	Canvas_combinationLockState	Canvas_combinationLockState 0x00017de0	name	
+02019158	1e4	Canvas	FUN_02019158		between two Canvas	
+0201933c	82c	Canvas	FUN_0201933c		between two Canvas	
+02019b68	3e8	Canvas	FUN_02019b68		between two Canvas	
+02019f50	418	Canvas	Canvas_updatePlaying	Canvas_updatePlaying 0x0001f068	name	
+0201a368	1e8	Canvas	FUN_0201a368		between two Canvas	
+0201a550	100	Canvas	FUN_0201a550		between two Canvas	
+0201a650	c8	Canvas	FUN_0201a650		between two Canvas	
+0201a718	f0	Canvas	FUN_0201a718		between two Canvas	
+0201a808	f4	Canvas	FUN_0201a808		between two Canvas	
+0201a8fc	394	Canvas	Canvas_setupDialog	Canvas_setupDialog 0x0001f378	name	
+0201ac90	6c	Canvas	FUN_0201ac90		between two Canvas	
+0201acfc	a4	Canvas	Canvas_showDialog	Canvas_showDialog 0x000277f4	name	
+0201ada0	17c	Canvas	Canvas_showChatDialog	Canvas_showChatDialog 0x000278c4	name	
+0201af1c	80	Canvas	FUN_0201af1c		between two Canvas	
+0201af9c	25c	Canvas	Canvas_updateMovement	Canvas_updateMovement 0x0002bc08	name	
+0201b1f8	e0	Canvas	Canvas_backToMain	Canvas_backToMain 0x00005888	name	
+0201b2d8	198	Canvas	Canvas_loadMenuMap	Canvas_loadMenuMap 0x00019b30	name	
+0201b470	50	Canvas	Canvas_unloadMap	Canvas_unloadMap 0x0002b144	name	
+0201b4c0	300	Canvas	FUN_0201b4c0		between two Canvas	
+0201b7c0	20	Canvas	FUN_0201b7c0		between two Canvas	
+0201b7e0	a4	Canvas	FUN_0201b7e0		between two Canvas	
+0201b884	88	Canvas	FUN_0201b884		between two Canvas	
+0201b90c	8c	Canvas	Canvas_addHelpText	Canvas_addHelpText 0x0000db14	name	
+0201b998	2c	Canvas	FUN_0201b998		cut Canvas|Combat by calls	
+0201b9c4	fc	Canvas	FUN_0201b9c4		cut Canvas|Combat by calls	
+0201bac0	224	Canvas	FUN_0201bac0		cut Canvas|Combat by calls	
+0201bce4	78	Canvas	FUN_0201bce4		cut Canvas|Combat by calls	
+0201bd5c	b8	Canvas	FUN_0201bd5c		cut Canvas|Combat by calls	
+0201be14	34	Canvas	FUN_0201be14		cut Canvas|Combat by calls	
+0201be48	24	Canvas	FUN_0201be48		cut Canvas|Combat by calls	
+0201be6c	28	Combat	Combat_getMonsterAttackField	Combat_getMonsterAttackField 0x00012b60	name	
+0201be94	16e4	Combat	Combat_startup	Combat_startup 0x000288d8	name	
+0201d578	a8	Combat	Combat_getBloodColor	Combat_getBloodColor 0x0001db24	name	
+0201d620	3a4	Combat	Combat_start	Combat_start 0x0001db8c	name	
+0201d9c4	1c90	Combat	Combat_playerAttackFrame	Combat_playerAttackFrame 0x0001e0e8	name	
+0201f654	8c	Combat	FUN_0201f654		between two Combat	
+0201f6e0	324	Combat	Combat_damageTile	Combat_damageTile 0x000076d4	name	
+0201fa04	c08	Combat	Combat_monsterAttackFrame	Combat_monsterAttackFrame 0x0001c1ac	name	
+0202060c	3fc	Combat	FUN_0202060c		between two Combat	
+02020a08	2c	Combat	Combat_runFrame	Combat_runFrame 0x00022778	name	
+02020a34	d0	Combat	Combat_targetInWeaponRange	Combat_targetInWeaponRange 0x0000662c	name	
+02020b04	10c	Combat	Particles_spawnPreset1	Particles_spawnPreset1 0x0001f9b0	between two Combat	
+02020c10	218	Combat	Combat_calcGibScale	Combat_calcGibScale 0x00005da8	name	
+02020e28	11c	ParticleSystem	ParticleSystem_scaledSpawn	ParticleSystem_scaledSpawn 0x00024204	name	
+02020f44	2ac	ParticleSystem	Particles_spawnBlood	Particles_spawnBlood 0x0001f880	name	
+020211f0	2c	Combat	Combat_calcTargetDist	Combat_calcTargetDist 0x00006a50	name	
+0202121c	3f0	Combat	Combat_resolveProjectiles	Combat_resolveProjectiles 0x0002b78c	name	
+0202160c	a80	Combat	Combat_finishPlayerAttack	Combat_finishPlayerAttack 0x00010650	name	
+0202208c	1a8	Combat	Combat_finishMonsterAttack	Combat_finishMonsterAttack 0x00010948	name	
+02022234	6c	Combat	Combat_angle8		name	yes
+020222a0	12c	Combat	Combat_launchFlames		name	yes
+020223cc	934	Combat	Combat_launchProjectile	Combat_launchProjectile 0x00018394	name	
+02022d00	118	Combat	Combat_launchSpellSprite	Combat_launchSpellSprite 0x000182e4	name	
+02022e18	230	Combat	Combat_launchMissile	Combat_launchMissile 0x000054c8	name	
+02023048	38	Combat	Combat_worldDistToTileDist	Combat_worldDistToTileDist 0x00002a60	name	
+02023080	d4	Combat	Combat_checkSurrounded	Combat_checkSurrounded 0x00006ecc	name	
+02023154	c	CombatEntity	thunk_FUN_0205459c		cut Combat|CombatEntity (no calls, middle)	
+02023160	108	CombatEntity	FUN_02023160		cut Combat|CombatEntity (no calls, middle)	
+02023268	5c	CombatEntity	CombatEntity_init	CombatEntity_init 0x00017984	name	
+020232c4	8	CombatEntity	CombatEntity_getHealth	CombatEntity_getHealth 0x00012a44	name	
+020232cc	8	CombatEntity	CombatEntity_getMaxHealth	CombatEntity_getMaxHealth 0x00012af8	name	
+020232d4	20	CombatEntity	CombatEntity_setHealth	CombatEntity_setHealth 0x000258b0	name	
+020232f4	24	CombatEntity	CombatEntity_setMaxHealth	CombatEntity_setMaxHealth 0x00025a80	name	
+02023318	8	CombatEntity	FUN_02023318		between two CombatEntity	
+02023320	8	CombatEntity	CombatEntity_getStrength	CombatEntity_getStrength 0x00012e70	name	
+02023328	8	CombatEntity	FUN_02023328		between two CombatEntity	
+02023330	1c	CombatEntity	FUN_02023330		between two CombatEntity	
+0202334c	1c	CombatEntity	CombatEntity_setStrength	CombatEntity_setStrength 0x00026444	name	
+02023368	1c	CombatEntity	FUN_02023368		between two CombatEntity	
+02023384	60	CombatEntity	FUN_02023384		between two CombatEntity	
+020233e4	2f4	CombatEntity	CombatEntity_calcHit	CombatEntity_calcHit 0x00006480	name	
+020236d8	288	CombatEntity	CombatEntity_calcDamage	CombatEntity_calcDamage 0x000060a0	name	
+02023960	3ac	CombatEntity	FUN_02023960		between two CombatEntity	
+02023d0c	1b8	CombatEntity	CombatEntity_loadState	CombatEntity_loadState 0x0001a640	name	
+02023ec4	104	CombatEntity	CombatEntity_saveState	CombatEntity_saveState 0x000237d8	name	
+02023fc8	64	CombatEntity	CombatEntity_calcCombat	CombatEntity_calcCombat 0x00005e90	name	
+0202402c	88	CombatEntity	CombatEntity_addArmor	CombatEntity_addArmor 0x00003070	name	
+020240b4	24	CombatEntity	CombatEntity_setArmor	CombatEntity_setArmor 0x00025864	name	
+020240d8	8	CombatEntity	CombatEntity_getArmorPoints	CombatEntity_getArmorPoints 0x00012a08	name	
+020240e0	20	CombatEntity	CombatEntity_getMaxArmorPoints	CombatEntity_getMaxArmorPoints 0x00012ae4	name	
+02024100	4	CombatEntity	FUN_02024100		between two CombatEntity	
+02024104	50	CombatEntity	Weapon_init	Weapon_init 0x000179c4	name	
+02024154	38	CombatEntity	FUN_02024154		cut CombatEntity|Entity by calls	
+0202418c	14	Entity	FUN_0202418c		cut CombatEntity|Entity by calls	
+020241a0	34	Entity	FUN_020241a0		cut CombatEntity|Entity by calls	
+020241d4	364	Entity	Entity_initspawn	Entity_initspawn 0x00017a00	name	
+02024538	15c	Entity	Game_touchEntity	Game_touchEntity 0x0002a648	between two Entity	
+02024694	190	Entity	Entity_initFirePit	Entity_initFirePit 0x00014cb4	name	
+02024824	344	Entity	Entity_touchedFirePit	Game_useFirePortal 0x0002a074	name	
+02024b68	960	Entity	Game_pickupItem	Game_pickupItem 0x0002a2ac	between two Entity	
+020254c8	644	Entity	Entity_takeDamage	Entity_takeDamage 0x0001ccc0	name	
+02025b0c	f6c	Entity	Entity_FUN_02025b0c		name	
+02026a78	6e4	Entity	Entity_FUN_02026a78		name	
+0202715c	6bc	Entity	Entity_FUN_0202715c		name	
+02027818	188	Entity	Game_snapMonsterSprite	Game_snapMonsterSprite 0x00027188	between two Entity	
+020279a0	124	Entity	Entity_checkLineOfSight	Entity_checkLineOfSight 0x00017d14	name	
+02027ac4	1e0	Entity	Entity_aiMoveStep	Entity_aiMoveStep 0x00006810	name	
+02027ca4	488	Entity	Game_findPathStep	Game_findPathStep 0x0000e6a0	between two Entity	
+0202812c	3c	Entity	Entity_distSqFrom	Entity_distSqFrom 0x00008814	name	
+02028168	158	Entity	Entity_calcPosition	Entity_calcPosition 0x00012bbc	name	
+020282c0	b4	Entity	Entity_attack	Entity_attack 0x000056ac	name	
+02028374	e0	Entity	Entity_FUN_02028374		name	
+02028454	b0	Entity	Entity_aiThink	Entity_aiThink 0x0000526c	name	
+02028504	1f8	Entity	Entity_aiIsValidGoal	Entity_aiIsValidGoal 0x00004ec4	name	
+020286fc	230	Entity	Entity_aiChooseNewGoal	Entity_aiChooseNewGoal 0x00004414	name	
+0202892c	c8	Entity	Entity_aiDoGoal	Entity_aiDoGoal 0x00004fb4	name	
+020289f4	1d8	Entity	Entity_aiCalcSimpleGoal	Entity_aiCalcSimpleGoal 0x00004014	name	
+02028bcc	a4	Entity	Entity_aiCalcGoalSubtype7	Entity_aiCalcGoalSubtype7 0x000042b8	name	
+02028c70	170	Entity	Entity_aiCalcGoalCharge	Entity_aiCalcGoalCharge 0x00004328	name	
+02028de0	308	Entity	Entity_aiWeaponForTarget	Entity_aiWeaponForTarget 0x000052bc	name	
+020290e8	27c	Entity	Entity_aiCalcGoalSubtype4	Entity_aiCalcGoalSubtype4 0x00004138	name	
+02029364	70	Entity	Entity_aiCalcSimpleGoalRaise	Entity_aiCalcSimpleGoalRaise 0x00003fd0	name	
+020293d4	30	Entity	Entity_aiCalcGoalSubtype10	Entity_aiCalcGoalSubtype10 0x00003fac	name	
+02029404	1b8	Entity	Entity_aiGoal_SLAM	Entity_aiGoal_SLAM 0x00004780	name	
+020295bc	108	Entity	Entity_devourCorpse	Entity_devourCorpse 0x00002dc8	name	
+020296c4	1cc	Entity	Entity_findOpenAdjacentTile		name	yes
+02029890	204	Entity	Combat_raiseDead	Combat_raiseDead 0x0001fe24	between two Entity	
+02029a94	548	Entity	Entity_aiGoal_MOVE	Entity_aiGoal_MOVE 0x00004878	name	
+02029fdc	290	Entity	Entity_aiReachedGoal_MOVE	Entity_aiReachedGoal_MOVE 0x0000502c	name	
+0202a26c	124	Entity	Entity_aiReachedGoal_CHARGE	Entity_aiReachedGoal_CHARGE 0x000051c8	name	
+0202a390	1d8	Entity	Entity_aiInterpolate	Entity_aiStepLerp 0x00004d40	name	
+0202a568	598	Entity	FUN_0202a568		between two Entity	
+0202ab00	200	Entity	Entity_bossPickMinionSpots	Entity_bossPickMinionSpots 0x0000668c	name	
+0202ad00	1a0	Entity	Entity_bossPlaceMinions	Entity_bossPlaceMinions 0x000089b4	name	
+0202aea0	24	Entity	Entity_aiGoal_10	Entity_aiGoal_10 0x000045e4	name	
+0202aec4	190	Entity	Entity_aiGoal_HEAL	Entity_aiGoal_HEAL 0x00004518	name	
+0202b054	d0	Entity	Entity_aiFindFreeAdjacent	Entity_aiFindFreeAdjacent 0x000063ec	name	
+0202b124	4a4	Entity	Entity_aiCalcGoalSubtype15	Entity_aiCalcGoalSubtype15 0x00003d08	name	
+0202b5c8	2d8	Entity	Entity_aiGoal_DISAPPEAR	Entity_aiGoal_DISAPPEAR 0x00004600	name	
+0202b8a0	3e4	Entity	Entity_knockback	Entity_knockback 0x00018094	name	
+0202bc84	290	Game	Game_pickNearbyMonster	Game_pickNearbyMonster 0x0001166c	name	
+0202bf14	350	Game	Game_resetMonsterPositions	Game_resetMonsterPositions 0x0001f5d4	name	
+0202c264	29c	Entity	Entity_resurrect	Entity_resurrect 0x0002266c	name	
+0202c500	48	Entity	Entity_getWoundLevel	Entity_getWoundLevel 0x00012a0c	name	
+0202c548	38	Entity	Entity_isBoss	Entity_isBoss 0x00017c10	name	
+0202c580	38	Entity	Entity_isMonsterType13or14	Entity_isMonsterType13or14 0x00017c88	name	
+0202c5b8	50	Entity	Entity_isDroppedEntity	Entity_isDroppedEntity 0x00017c4c	name	
+0202c608	10c	Entity	Entity_isBinaryEntity	Entity_isBinaryEntity 0x00017b7c	name	
+0202c714	48	Entity	Entity_isNamedEntity	Entity_isNamedEntity 0x00017ca8	name	
+0202c75c	220	Entity	Entity_restoreState	Entity_restoreState 0x000224c4	name	
+0202c97c	150	Entity	Entity_getSaveHandle	Entity_getSaveHandle 0x00012d1c	name	
+0202cacc	264	Entity	Entity_saveState	Entity_saveState 0x000239d0	name	
+0202cd30	650	Entity	Entity_loadState	Entity_loadState 0x0001a8c0	name	
+0202d380	e0	Entity	Entity_sumTileEventOp2F	Entity_sumTileEventOp2F 0x000074e8	name	
+0202d460	128	Entity	Game_removeFromCombat	Game_removeFromCombat 0x0002addc	between two Entity	
+0202d588	120	Entity	Entity_aiIsAttackValid	Entity_aiIsAttackValid 0x00004e1c	name	
+0202d6a8	28	Entity	FUN_0202d6a8		cut Entity|EntityDefManager by calls	
+0202d6d0	114	Entity	FUN_0202d6d0		cut Entity|EntityDefManager by calls	
+0202d7e4	84	Entity	FUN_0202d7e4		cut Entity|EntityDefManager by calls	
+0202d868	dc	EntityDefManager	FUN_0202d868		cut Entity|EntityDefManager by calls	
+0202d944	4	EntityDefManager	FUN_0202d944		cut Entity|EntityDefManager by calls	
+0202d948	280	EntityDefManager	EntityDefManager_FUN_0202d948		name	
+0202dbc8	a8	EntityDefManager	EntityDefs_find	EntityDefs_find 0x00011778	name	
+0202dc70	50	EntityMonster	FUN_0202dc70		cut EntityDefManager|EntityMonster (no calls, middle)	
+0202dcc0	14	EntityMonster	FUN_0202dcc0		cut EntityDefManager|EntityMonster (no calls, middle)	
+0202dcd4	4c	EntityMonster	FUN_0202dcd4		cut EntityDefManager|EntityMonster (no calls, middle)	
+0202dd20	58	EntityMonster	EntityMonster_getSound	EntityMonster_getSound 0x00012e10	name	
+0202dd78	e8	EntityMonster	EntityMonster_getRandomSound	EntityMonster_getRandomSound 0x00012c58	name	
+0202de60	58	EntityMonster	MonsterGoal_saveState	MonsterGoal_saveState 0x00023e14	name	
+0202deb8	a0	EntityMonster	MonsterGoal_loadState	MonsterGoal_loadState 0x0001aeec	name	
+0202df58	20	EntityMonster	MonsterGoal_reset	MonsterGoal_reset 0x000224b4	name	
+0202df78	278	Game	Game_startup	Game_startup 0x00027f58	name	
+0202e1f0	178	Game	Game_unlinkEntity		name	yes
+0202e368	20c	Game	Game_linkEntity		name	yes
+0202e574	44	Game	FUN_0202e574		between two Game	
+0202e5b8	c4	Game	FUN_0202e5b8		between two Game	
+0202e67c	d4	Game	FUN_0202e67c		between two Game	
+0202e750	58	Game	FUN_0202e750		between two Game	
+0202e7a8	cf8	Game	Game_loadMapEntities	Game_loadMapEntities 0x00018f30	name	
+0202f4a0	190	Game	Game_unloadMapData	Game_unloadMap 0x0002afc0	name	
+0202f630	54	Game	Game_touchTile	Game_touchTile 0x0002a044	name	yes
+0202f684	c0	Game	Canvas_finishMovement	Canvas_finishMovement 0x000124ec	between two Game	
+0202f744	124	Game	Game_FUN_0202f744		name	
+0202f868	40	Game	Game_getTileEntities	Game_getTileEntities 0x00011640	name	yes
+0202f8a8	70	Game	Game_findEntityAt	Game_findEntityAt 0x000115f0	name	yes
+0202f918	244	Game	Game_activateEx	Game_activateEx 0x00002e50	name	yes
+0202fb5c	160	Game	Game_deactivate		name	yes
+0202fcbc	300	Game	Game_monsterAI	Game_monsterAI 0x0001bf94	name	
+0202ffbc	84	Game	Game_updateMonsterLerps	Game_updateMonsterLerps 0x0001c158	name	
+02030040	144	Game	Game_FUN_02030040		name	
+02030184	6c	Game	Game_FUN_02030184		name	
+020301f0	90	Game	Game_FUN_020301f0		name	
+02030280	198	Game	Game_FUN_02030280		name	
+02030418	4e4	Game	Game_useDoor	Game_useDoor 0x0001dcfc	name	yes
+020308fc	2e0	Game	Entity_died	Entity_died 0x000080f4	between two Game	
+02030bdc	39c	Game	Game_gspriteAllocAnim	Game_gspriteAllocAnim 0x00013248	name	
+02030f78	8d4	Game	Game_FUN_02030f78		name	
+0203184c	1c4	Game	Game_loadWorldState		name	
+02031a10	864	Game	Game_FUN_02031a10		name	
+02032274	198	Game	Game_saveConfig	Game_saveConfig 0x000232e8	name	
+0203240c	188	Game	Game_FUN_0203240c		name	
+02032594	290	Game	Game_loadConfig		name	
+02032824	28c	Game	Game_saveState	Game_saveState 0x000238fc	name	yes
+02032ab0	244	Game	Game_saveLevelSnapshot	Game_saveLevelSnapshot 0x000234ec	name	
+02032cf4	15c	Game	Game_savePlayerState	Game_savePlayerState 0x00023638	name	
+02032e50	118	Game	Game_loadPlayerState	Game_loadPlayerState 0x00019fcc	name	
+02032f68	308	Game	Game_loadState		name	yes
+02033270	188	Game	Game_FUN_02033270		name	
+020333f8	4c	Game	Game_canSnapMonsters	Game_canSnapMonsters 0x00006d58	name	yes
+02033444	38	Game	Game_finishMoves		name	yes
+0203347c	138	Game	Game_snapAllMonsterSprites	Game_snapAllMonsterSprites 0x00027028	name	yes
+020335b4	84	Game	Game_beginPlayerTurn		name	yes
+02033638	80	Game	Game_endPlayerTurn	Game_endPlayerTurn 0x0002b9a4	name	yes
+020336b8	194	Game	Game_setLineLocked	Game_setLineLocked 0x0002597c	name	yes
+0203384c	e4	Game	Game_setSwitch	Game_setSwitch 0x00026458	name	yes
+02033930	280	Game	Game_spawnDropItem	Game_spawnDropItem 0x00027264	name	
+02033bb0	50	Game	Game_checkInactive		name	yes
+02033c00	50	Game	Game_checkActive		name	yes
+02033c50	1f4	Game	Game_FUN_02033c50		name	
+02033e44	5c	Game	Game_FUN_02033e44		name	
+02033ea0	748	Game	Game_updateLerpSprites	Game_updateLerpSprites 0x0002b4cc	name	
+020345e8	540	Game	Game_loadCameras	Game_loadCameras 0x000188dc	name	
+02034b28	9c	Game	Game_FUN_02034b28		name	
+02034bc4	1c4	Game	Game_gsprite_alloc	Game_gspriteAlloc 0x000133f8	name	
+02034d88	54	Game	Game_gspriteDestroy	Game_gspriteDestroy 0x00013518	name	
+02034ddc	3f0	Game	Game_gspriteUpdateAll	Game_gspriteUpdateAll 0x00013558	name	
+020351cc	a58	Game	Game_FUN_020351cc		name	
+02035c24	604	Game	between		between two Game	yes
+02036228	468	Game	Game_addMovingBlock	Game_startMovingBlock 0x00003464	name	
+02036690	f4	Game	Game_FUN_02036690		name	
+02036784	10c	Game	Game_FUN_02036784		name	
+02036890	380	Game	Game_FUN_02036890		name	
+02036c10	18	Game	Game_movingBlocksIdle		name	yes
+02036c28	a0	Game	Game_finishMovingBlocks		name	yes
+02036cc8	c0	Game	Game_allocLerpSprite	Game_allocLerpSprite 0x0000545c	name	yes
+02036d88	3c	Game	Game_freeLerpSprite		name	yes
+02036dc4	164	Game	Game_showItemAcquired	Game_showItemAcquired 0x00026a3c	name	
+02036f28	bc	Game	Game_runScriptThreads		name	yes
+02036fe4	8c	Game	Game_allocScriptThread		name	yes
+02037070	4c	Game	Game_freeScriptThread		name	yes
+020370bc	b4	Game	Game_executeTile	Game_executeTile 0x000105d8	name	yes
+02037170	b4	Game	Game_FUN_02037170		name	
+02037224	52c	Game	Game_updateBossReinforcements	Game_updateBossReinforcements 0x00006b28	name	
+02037750	294	Game	Game_FUN_02037750		name	
+020379e4	174	Game	LerpSprite_saveState	LerpSprite_saveState 0x000236bc	name	
+02037b58	188	Game	LerpSprite_loadState	LerpSprite_loadState 0x0001a55c	name	
+02037ce0	44	Game	Game_FUN_02037ce0		name	
+02037d24	110	Game	Game_FUN_02037d24		name	
+02037e34	3d0	Game	Game_loadMovingBlocks		name	
+02038204	234	Game	Game_clearMovingBlocks		name	
+02038438	74	Game	Game_loadEntityStates	Game_loadEntityStates 0x00018bd4	name	
+020384ac	dc	Game	Game_saveEntityStates	Game_saveEntityStates 0x00023438	name	
+02038588	100	Game	FUN_02038588		cut Game|App by calls	
+02038688	40	Game	FUN_02038688		cut Game|App by calls	
+020386c8	1d8	Game	FUN_020386c8		cut Game|App by calls	
+020388a0	140	App	FUN_020388a0		cut Game|App by calls	
+020389e0	50	App	FUN_020389e0		cut Game|App by calls	
+02038a30	4bc	App	FUN_02038a30		cut Game|App by calls	
+02038eec	14	App	FUN_02038eec		cut Game|App by calls	
+02038f00	f4	App	FUN_02038f00		cut Game|App by calls	
+02038ff4	98	App	FUN_02038ff4		cut Game|App by calls	
+0203908c	ac	App	FUN_0203908c		cut Game|App by calls	
+02039138	40	App	FUN_02039138		cut Game|App by calls	
+02039178	18	App	App_snprintf	App_snprintf 0x000024dc	name	
+02039190	60	Hud	FUN_02039190		cut App|Hud by calls	
+020391f0	104	Hud	FUN_020391f0		cut App|Hud by calls	
+020392f4	78	Hud	FUN_020392f4		cut App|Hud by calls	
+0203936c	60	Hud	FUN_0203936c		cut App|Hud by calls	
+020393cc	58	Hud	FUN_020393cc		cut App|Hud by calls	
+02039424	d4	Hud	Hud_addTimedMsg	Hud_addTimedMsg 0x00003928	name	
+020394f8	80	Hud	FUN_020394f8		between two Hud	
+02039578	5c	Hud	FUN_02039578		between two Hud	
+020395d4	7c	Hud	FUN_020395d4		between two Hud	
+02039650	928	Hud	Hud_drawTopBar	Hud_drawTopBar 0x0000c040	name	
+02039f78	254	Hud	Hud_drawMoodMeter	Hud_drawMoodMeter 0x0000aeac	name	
+0203a1cc	2f0	Hud	Canvas_drawStoryScreen	Canvas_drawStoryScreen 0x0000bab4	between two Hud	
+0203a4bc	370	Hud	Hud_drawTargetHealth	Hud_drawTargetHealth 0x0000accc	name	
+0203a82c	b8	Hud	FUN_0203a82c		between two Hud	
+0203a8e4	124	Hud	FUN_0203a8e4		between two Hud	
+0203aa08	5ec	Hud	Hud_drawStatusBar	Hud_drawStatusBar 0x00009884	name	
+0203aff4	36c	Hud	FUN_0203aff4		between two Hud	
+0203b360	60	Hud	FUN_0203b360		between two Hud	
+0203b3c0	4b4	Hud	FUN_0203b3c0		between two Hud	
+0203b874	128	Hud	FUN_0203b874		between two Hud	
+0203b99c	54	Hud	FUN_0203b99c		between two Hud	
+0203b9f0	98	Hud	Hud_shuffleBarks	Hud_shuffleBarks 0x0001f738	name	
+0203ba88	168	Hud	Hud_randomBark	Hud_randomBark 0x0002ac38	name	
+0203bbf0	14	Player	FUN_0203bbf0		cut Hud|Player (no calls, middle)	
+0203bc04	110	Player	Player_startup	Player_startup 0x0002959c	name	
+0203bd14	3ac	Player	Player_advanceTurn	Player_advanceTurn 0x00003b34	name	
+0203c0c0	64	Player	FUN_0203c0c0		between two Player	
+0203c124	7c	Player	FUN_0203c124		between two Player	
+0203c1a0	90	Player	FUN_0203c1a0		between two Player	
+0203c230	18	Player	FUN_0203c230		between two Player	
+0203c248	38	Player	FUN_0203c248		between two Player	
+0203c280	148	Player	Player_selectWeapon	Player_selectWeapon 0x000245fc	name	
+0203c3c8	a4	Player	Player_modifyStat	Player_modifyStat 0x0001bf24	name	
+0203c46c	104	Player	FUN_0203c46c		between two Player	
+0203c570	90	Player	Player_addXP	Player_addXP 0x000039a0	name	
+0203c600	54	Player	FUN_0203c600		between two Player	
+0203c654	2fc	Player	Player_levelUp	Player_levelUp 0x000031dc	name	
+0203c950	20	Player	Player_xpForLevel	Player_xpForLevel 0x000067f8	name	
+0203c970	e8	Player	FUN_0203c970		between two Player	
+0203ca58	154	Player	Player_addHealth	Player_addHealth 0x000030d0	name	
+0203cbac	50	Player	Player_countCollectibles		name	yes
+0203cbfc	364	Player	Player_reset	Player_reset 0x00022354	name	
+0203cf60	28	Hud	Hud_startStatFlash	Hud_startStatFlash 0x00014764	name	
+0203cf88	f8	Util	Util_RelativeQuadrant		name	yes
+0203d080	80	Player	Player_hurtFeedback	Player_hurtFeedback 0x0001cc60	name	
+0203d100	260	Player	Player_takeDamage	Player_takeDamage 0x0001cf30	name	
+0203d360	c0	Player	Player_died	Player_died 0x000086fc	name	
+0203d420	180	Player	Player_fireWeapon	Player_fireWeapon 0x0001267c	name	
+0203d5a0	51c	Player	Player_useItem	Player_useItem 0x0002c00c	name	
+0203dabc	43c	Player	Player_give	Player_give 0x00012f98	name	
+0203def8	164	Player	Player_FUN_0203def8		name	
+0203e05c	74	Player	Player_FUN_0203e05c		name	
+0203e0d0	7c	Player	Player_selectNextWeapon	Player_selectNextWeapon 0x00024530	name	
+0203e14c	ec	Player	Player_FUN_0203e14c		name	
+0203e238	1bc	Player	Player_updateWand	Player_updateWandChat 0x0002beb8	name	
+0203e3f4	58	Player	Player_setWandMood	Player_setWandState 0x000264f8	name	
+0203e44c	88	Player	Player_showHelp	Player_showHelp 0x000268ec	name	
+0203e4d4	58	Player	Player_FUN_0203e4d4		name	
+0203e52c	58	Player	Player_FUN_0203e52c		name	
+0203e584	58	Player	Player_FUN_0203e584		name	
+0203e5dc	70	Player	Player_FUN_0203e5dc		name	
+0203e64c	5c	Player	Player_showWeaponHelp	Player_showWeaponHelp 0x00026b24	name	
+0203e6a8	58	Player	Player_FUN_0203e6a8		name	
+0203e700	1a4	Player	Player_FUN_0203e700		name	
+0203e8a4	184	Player	Player_FUN_0203e8a4		name	
+0203ea28	514	Player	Player_saveState	Player_saveState 0x00023b28	name	
+0203ef3c	690	Player	Player_loadState	Player_loadState 0x0001abdc	name	
+0203f5cc	24	Player	FUN_0203f5cc		between two Player	
+0203f5f0	a8	Player	FUN_0203f5f0		between two Player	
+0203f698	94	Player	Player_setListState		name	yes
+0203f72c	50	Player	FUN_0203f72c		between two Player	
+0203f77c	18	Player	FUN_0203f77c		between two Player	
+0203f794	24	Player	FUN_0203f794		between two Player	
+0203f7b8	54	Player	FUN_0203f7b8		between two Player	
+0203f80c	3f0	Player	Player_crushed	Player_crushed 0x0000d848	name	
+0203fbfc	74	Player	Player_selectSpell	Player_selectSpell 0x000245c0	name	
+0203fc70	168	Player	Player_calcStats	Player_calcStats 0x0002bab4	name	
+0203fdd8	f8	Player	FUN_0203fdd8		between two Player	
+0203fed0	1674	Player	Player_equipForMap	Player_equipForMap 0x0000dcd0	name	
+02041544	28	Player	FUN_02041544		between two Player	
+0204156c	3b8	Player	Player_updateStats	Player_updateStats 0x0002aaa0	name	
+02041924	114	Player	Player_tickStatusEffects	Player_tickStatusEffects 0x0002bb8c	name	
+02041a38	90	Player	Player_removeBuff	Player_removeBuff 0x000201b4	name	
+02041ac8	174	Player	Player_addStatusEffect	Player_addStatusEffect 0x000037d4	name	
+02041c3c	1c	Player	Player_isVisible	Player_isVisible 0x00017dc4	name	
+02041c58	3c	Render	FUN_02041c58		cut Player|Render (no calls, middle)	
+02041c94	3ec	Render	Render_FUN_02041c94		name	
+02042080	54	Render	Render_findTileEvent	Render_findTileEvent 0x000115a4	name	yes
+020420d4	1ec	Render	Game_hasSaveData	Game_hasSaveData 0x000146d0	between two Render	
+020422c0	a4	Render	Render_FUN_020422c0		name	
+02042364	330	Render	Render_beginLoadMap	Render_beginLoadMap 0x000059b0	name	
+02042694	1964	Render	Render_finishLoadMap	Render_beginLoadMapData 0x00011898	name	
+02043ff8	4c	Render	Render_FUN_02043ff8		name	
+02044044	4c	Render	Render_FUN_02044044		name	
+02044090	54	Render	Render_FUN_02044090		name	
+020440e4	c8	Render	Render_FUN_020440e4		name	
+020441ac	128	Render	Render_FUN_020441ac		name	
+020442d4	88	Render	Render_FUN_020442d4		name	
+0204435c	b0	Render	Render_FUN_0204435c		name	
+0204440c	274	Render	Render_FUN_0204440c		name	
+02044680	b4	Render	Render_FUN_02044680		name	
+02044734	98	Render	Render_tileTouchesWall	Render_tileTouchesWall 0x00006e0c	name	yes
+020447cc	20	Render	Render_FUN_020447cc		name	
+020447ec	30	Render	Render_FUN_020447ec		name	
+0204481c	8e0	Render	Render_FUN_0204481c		name	
+020450fc	ac	Render	Render_findNode		name	yes
+020451a8	7c	Render	Render_relinkSpriteAt	Render_relinkSpriteAt 0x000200f8	name	yes
+02045224	30	Render	Render_FUN_02045224		name	
+02045254	a0	Render	Render_FUN_02045254		name	
+020452f4	e8	Render	Render_FUN_020452f4		name	
+020453dc	ac	Render	Render_FUN_020453dc		name	
+02045488	12c	Render	Render_FUN_02045488		name	
+020455b4	118	Render	Render_setScreenSize		name	
+020456cc	fc	Render	Render_FUN_020456cc		name	
+020457c8	34	Render	Render_inSameLeaf	Render_inSameLeaf 0x00014b44	name	yes
+020457fc	ac	Render	Render_findLeaf	Render_findLeaf 0x00012b7c	name	yes
+020458a8	2cc	Render	Render_FUN_020458a8		name	
+02045b74	17c	Render	Render_FUN_02045b74		name	
+02045cf0	260	Render	Render_FUN_02045cf0		name	
+02045f50	178	Render	Render_FUN_02045f50		name	
+020460c8	82c	Render	Render_FUN_020460c8		name	
+020468f4	2c8	Render	Render_LoadMapNodes		name	
+02046bbc	7c	Render	FUN_02046bbc		between two Render	
+02046c38	14c	Render	FUN_02046c38		between two Render	
+02046d84	b8	Render	Canvas_drawRegion	Canvas_drawRegion 0x0000b238	between two Render	
+02046e3c	128	Render	FUN_02046e3c		between two Render	
+02046f64	17c	Render	FUN_02046f64		between two Render	
+020470e0	54	Render	FUN_020470e0		between two Render	
+02047134	24	Render	FUN_02047134		between two Render	
+02047158	50	Render	FUN_02047158		between two Render	
+020471a8	44	Render	FUN_020471a8		between two Render	
+020471ec	60	Render	FUN_020471ec		between two Render	
+0204724c	60	Render	FUN_0204724c		between two Render	
+020472ac	1c4	Render	FUN_020472ac		between two Render	
+02047470	ca0	Render	FUN_02047470		between two Render	
+02048110	3ec	Render	FUN_02048110		between two Render	
+020484fc	7e4	Render	FUN_020484fc		between two Render	
+02048ce0	a0	Render	FUN_02048ce0		between two Render	
+02048d80	4	Render	FUN_02048d80		between two Render	
+02048d84	4	Render	FUN_02048d84		between two Render	
+02048d88	2f4	Render	FUN_02048d88		between two Render	
+0204907c	158	Render	FUN_0204907c		between two Render	
+020491d4	21f0	Render	Render_drawSprite	Render_drawSprite 0x00020914	name	
+0204b3c4	330	Render	FUN_0204b3c4		between two Render	
+0204b6f4	5ec	Render	FUN_0204b6f4		between two Render	
+0204bce0	148	Render	FUN_0204bce0		between two Render	
+0204be28	60	Render	FUN_0204be28		between two Render	
+0204be88	128	Render	Render_progPolygonAttr		name	yes
+0204bfb0	e8	Render	FUN_0204bfb0		cut Render|ScriptThread by calls	
+0204c098	6a4	Render	FUN_0204c098		cut Render|ScriptThread by calls	
+0204c73c	4bc	Render	FUN_0204c73c		cut Render|ScriptThread by calls	
+0204cbf8	58	Render	FUN_0204cbf8		cut Render|ScriptThread by calls	
+0204cc50	34	Render	FUN_0204cc50		cut Render|ScriptThread by calls	
+0204cc84	10c	Render	FUN_0204cc84		cut Render|ScriptThread by calls	
+0204cd90	78	Render	FUN_0204cd90		cut Render|ScriptThread by calls	
+0204ce08	14	ScriptThread	ScriptThread_construct		name	yes
+0204ce1c	14	ScriptThread	ScriptThread_reset		name	yes
+0204ce30	1b4	ScriptThread	ScriptThread_runEvent		name	yes
+0204cfe4	e0	ScriptThread	ScriptThread_executeTile		name	yes
+0204d0c4	fc	ScriptThread	ScriptThread_queueTile		name	yes
+0204d1c0	90	ScriptThread	ScriptThread_pushFrame		name	yes
+0204d250	10c	ScriptThread	ScriptThread_run		name	yes
+0204d35c	14	ScriptThread	ScriptThread_popFrame		name	yes
+0204d370	18	ScriptThread	ScriptThread_init		name	yes
+0204d388	5388	ScriptThread	lowerWand		between two ScriptThread	yes
+02052710	34	ScriptThread	ScriptThread_checkWait		name	yes
+02052744	b0	ScriptThread	ScriptThread_saveState		name	yes
+020527f4	100	ScriptThread	ScriptThread_loadState		name	yes
+020528f4	90	ScriptThread	ScriptThread_signal		name	yes
+02052984	190	Sound	FUN_02052984		cut ScriptThread|Sound (no calls, middle)	
+02052b14	1c	Sound	FUN_02052b14		cut ScriptThread|Sound (no calls, middle)	
+02052b30	8c	Sound	FUN_02052b30		cut ScriptThread|Sound (no calls, middle)	
+02052bbc	10	Sound	Sound_setListener		name	yes
+02052bcc	2c4	Sound	FUN_02052bcc		between two Sound	
+02052e90	f8	Sound	Sound_addEmitter		name	yes
+02052f88	88	Sound	Sound_play		name	yes
+02053010	1ac	Sound	FUN_02053010		between two Sound	
+020531bc	130	Sound	FUN_020531bc		between two Sound	
+020532ec	50	Sound	FUN_020532ec		between two Sound	
+0205333c	6c	Sound	FUN_0205333c		between two Sound	
+020533a8	1c	Sound	FUN_020533a8		between two Sound	
+020533c4	34	Sound	Sound_setEmitter		name	yes
+020533f8	6c	Sound	FUN_020533f8		between two Sound	
+02053464	380	Sound	FUN_02053464		between two Sound	
+020537e4	80	Sound	FUN_020537e4		between two Sound	
+02053864	94	Sound	FUN_02053864		between two Sound	
+020538f8	5c	Sound	FUN_020538f8		between two Sound	
+02053954	60	Sound	Canvas_drawPlayingSoftKeys	Canvas_drawPlayingSoftKeys 0x0000b19c	between two Sound	
+020539b4	68	Sound	FUN_020539b4		between two Sound	
+02053a1c	58	Sound	FUN_02053a1c		between two Sound	
+02053a74	7c	Sound	Sound_saveEmitters		name	yes
+02053af0	9c	Sound	Sound_loadEmitters		name	yes
+02053b8c	24	Stream	FUN_02053b8c		cut Sound|Stream (no calls, middle)	
+02053bb0	4	Stream	FUN_02053bb0		cut Sound|Stream (no calls, middle)	
+02053bb4	48	Stream	InputStream_construct		name	yes
+02053bfc	8c	Stream	InputStream_open		name	yes
+02053c88	50	Stream	InputStream_openBackup		name	yes
+02053cd8	30	Stream	InputStream_close		name	yes
+02053d08	80	Stream	InputStream_fill		name	yes
+02053d88	12c	Stream	InputStream_read		name	yes
+02053eb4	18	Stream	InputStream_readIntDirect		name	yes
+02053ecc	e4	Stream	InputStream_readCompressed		name	yes
+02053fb0	a0	Stream	InputStream_seek		name	yes
+02054050	10	Stream	InputStream_readInts		name	yes
+02054060	10	Stream	InputStream_readShorts		name	yes
+02054070	54	Stream	InputStream_readInt		name	yes
+020540c4	38	Stream	InputStream_readShort		name	yes
+020540fc	30	Stream	InputStream_getPosition		name	yes
+0205412c	94	Stream	OutputStream_open		name	yes
+020541c0	fc	Stream	OutputStream_flush		name	yes
+020542bc	18	Stream	OutputStream_getPosition	OutputStream_getPosition 0x00002970	name	yes
+020542d4	9c	Stream	OutputStream_write	OutputStream_write 0x00002c20	name	yes
+02054370	28	Stream	OutStream_writeBool		name	yes
+02054398	24	Stream	OutStream_writeByte		name	yes
+020543bc	24	Stream	OutStream_writeShort	OutStream_writeShort 0x0002c738	name	yes
+020543e0	24	Stream	OutStream_writeInt	OutStream_writeInt 0x0002c710	name	yes
+02054404	24	Stream	OutputStream_close		name	yes
+02054428	c	MenuSystem	thunk_FUN_02013bcc		cut Stream|MenuSystem by calls	
+02054434	5c	MenuSystem	FUN_02054434		cut Stream|MenuSystem by calls	
+02054490	24	MenuSystem	FUN_02054490		cut Stream|MenuSystem by calls	
+020544b4	24	MenuSystem	FUN_020544b4		cut Stream|MenuSystem by calls	
+020544d8	14	MenuSystem	FUN_020544d8		cut Stream|MenuSystem by calls	
+020544ec	14	MenuSystem	FUN_020544ec		cut Stream|MenuSystem by calls	
+02054500	5c	MenuSystem	FUN_02054500		cut Stream|MenuSystem by calls	
+0205455c	14	MenuSystem	FUN_0205455c		cut Stream|MenuSystem by calls	
+02054570	14	MenuSystem	FUN_02054570		cut Stream|MenuSystem by calls	
+02054584	18	MenuSystem	FUN_02054584		cut Stream|MenuSystem by calls	
+0205459c	2c	MenuSystem	FUN_0205459c		cut Stream|MenuSystem by calls	
+020545c8	8	MenuSystem	FUN_020545c8		cut Stream|MenuSystem by calls	
+020545d0	8	MenuSystem	FUN_020545d0		cut Stream|MenuSystem by calls	
+020545d8	c	MenuSystem	FUN_020545d8		cut Stream|MenuSystem by calls	
+020545e4	64	MenuSystem	FUN_020545e4		cut Stream|MenuSystem by calls	
+02054648	4c	MenuSystem	FUN_02054648		cut Stream|MenuSystem by calls	
+02054694	38	MenuSystem	FUN_02054694		cut Stream|MenuSystem by calls	
+020546cc	4c	MenuSystem	FUN_020546cc		cut Stream|MenuSystem by calls	
+02054718	58	MenuSystem	FUN_02054718		cut Stream|MenuSystem by calls	
+02054770	2c	MenuSystem	FUN_02054770		cut Stream|MenuSystem by calls	
+0205479c	64	MenuSystem	FUN_0205479c		cut Stream|MenuSystem by calls	
+02054800	78	MenuSystem	FUN_02054800		cut Stream|MenuSystem by calls	
+02054878	58	MenuSystem	FUN_02054878		cut Stream|MenuSystem by calls	
+020548d0	18	MenuSystem	FUN_020548d0		cut Stream|MenuSystem by calls	
+020548e8	14	MenuSystem	FUN_020548e8		cut Stream|MenuSystem by calls	
+020548fc	2c	MenuSystem	FUN_020548fc		cut Stream|MenuSystem by calls	
+02054928	108	MenuSystem	FUN_02054928		cut Stream|MenuSystem by calls	
+02054a30	bc	MenuSystem	FUN_02054a30		cut Stream|MenuSystem by calls	
+02054aec	28	MenuSystem	FUN_02054aec	FUN_00000030 0x00000030	cut Stream|MenuSystem by calls	
+02054b14	60	MenuSystem	FUN_02054b14		cut Stream|MenuSystem by calls	
+02054b74	18	MenuSystem	FUN_02054b74		cut Stream|MenuSystem by calls	
+02054b8c	14	MenuSystem	FUN_02054b8c		cut Stream|MenuSystem by calls	
+02054ba0	18	MenuSystem	FUN_02054ba0		cut Stream|MenuSystem by calls	
+02054bb8	24	MenuSystem	FUN_02054bb8		cut Stream|MenuSystem by calls	
+02054bdc	58	MenuSystem	FUN_02054bdc		cut Stream|MenuSystem by calls	
+02054c34	100	MenuSystem	FUN_02054c34		cut Stream|MenuSystem by calls	
+02054d34	580	MenuSystem	FUN_02054d34		cut Stream|MenuSystem by calls	
+020552b4	50	MenuSystem	FUN_020552b4		cut Stream|MenuSystem by calls	
+02055304	56c	MenuSystem	FUN_02055304		cut Stream|MenuSystem by calls	
+02055870	18	MenuSystem	FUN_02055870		cut Stream|MenuSystem by calls	
+02055888	4c	MenuSystem	FUN_02055888		cut Stream|MenuSystem by calls	
+020558d4	40	MenuSystem	FUN_020558d4		cut Stream|MenuSystem by calls	
+02055914	e4c	MenuSystem	Menus_select	Menus_select 0x000246ac	name	
+02056760	f4	MenuSystem	FUN_02056760		between two MenuSystem	
+02056854	210	MenuSystem	FUN_02056854		between two MenuSystem	
+02056a64	108	MenuSystem	FUN_02056a64		between two MenuSystem	
+02056b6c	ec	MenuSystem	FUN_02056b6c		between two MenuSystem	
+02056c58	30	MenuSystem	FUN_02056c58		between two MenuSystem	
+02056c88	40	MenuSystem	FUN_02056c88		between two MenuSystem	
+02056cc8	7c	MenuSystem	FUN_02056cc8		between two MenuSystem	
+02056d44	a8	MenuSystem	FUN_02056d44		between two MenuSystem	
+02056dec	b8	MenuSystem	FUN_02056dec		between two MenuSystem	
+02056ea4	b8	MenuSystem	FUN_02056ea4		between two MenuSystem	
+02056f5c	2b8	MenuSystem	FUN_02056f5c		between two MenuSystem	
+02057214	1a8	MenuSystem	FUN_02057214		between two MenuSystem	
+020573bc	cc	MenuSystem	FUN_020573bc		between two MenuSystem	
+02057488	dc	MenuSystem	FUN_02057488		between two MenuSystem	
+02057564	138	MenuSystem	FUN_02057564		between two MenuSystem	
+0205769c	168	MenuSystem	FUN_0205769c		between two MenuSystem	
+02057804	c0	MenuSystem	FUN_02057804		between two MenuSystem	
+020578c4	cc	MenuSystem	FUN_020578c4		between two MenuSystem	
+02057990	158	MenuSystem	FUN_02057990		between two MenuSystem	
+02057ae8	dc	MenuSystem	FUN_02057ae8		between two MenuSystem	
+02057bc4	190	MenuSystem	FUN_02057bc4		between two MenuSystem	
+02057d54	11c	MenuSystem	FUN_02057d54		between two MenuSystem	
+02057e70	1a4	MenuSystem	FUN_02057e70		between two MenuSystem	
+02058014	7c8	MenuSystem	FUN_02058014		between two MenuSystem	
+020587dc	7a8	MenuSystem	FUN_020587dc		between two MenuSystem	
+02058f84	3ac	MenuSystem	FUN_02058f84		between two MenuSystem	
+02059330	c4	MenuSystem	FUN_02059330		between two MenuSystem	
+020593f4	1964	MenuSystem	FUN_020593f4		between two MenuSystem	
+0205ad58	98	MenuSystem	FUN_0205ad58		between two MenuSystem	
+0205adf0	470	MenuSystem	FUN_0205adf0		between two MenuSystem	
+0205b260	70	MenuSystem	FUN_0205b260		between two MenuSystem	
+0205b2d0	20	MenuSystem	FUN_0205b2d0		between two MenuSystem	
+0205b2f0	24	MenuSystem	FUN_0205b2f0		between two MenuSystem	
+0205b314	28	MenuSystem	FUN_0205b314		between two MenuSystem	
+0205b33c	144	MenuSystem	FUN_0205b33c		between two MenuSystem	
+0205b480	810	MenuSystem	FUN_0205b480		between two MenuSystem	
+0205bc90	e8	MenuSystem	FUN_0205bc90		between two MenuSystem	
+0205bd78	2b8	MenuSystem	FUN_0205bd78		between two MenuSystem	
+0205c030	f60	MenuSystem	FUN_0205c030		between two MenuSystem	
+0205cf90	6c	MenuSystem	FUN_0205cf90		between two MenuSystem	
+0205cffc	7b0	MenuSystem	Hud_loadWandChats	Hud_loadWandChats 0x0001b6f4	between two MenuSystem	
+0205d7ac	64	MenuSystem	FUN_0205d7ac		between two MenuSystem	
+0205d810	480	MenuSystem	FUN_0205d810		between two MenuSystem	
+0205dc90	94	MenuSystem	FUN_0205dc90		between two MenuSystem	
+0205dd24	60	MenuSystem	FUN_0205dd24		between two MenuSystem	
+0205dd84	7c	MenuSystem	FUN_0205dd84		between two MenuSystem	
+0205de00	110	MenuSystem	FUN_0205de00		between two MenuSystem	
+0205df10	74	MenuSystem	FUN_0205df10		between two MenuSystem	
+0205df84	1f8	MenuSystem	FUN_0205df84		between two MenuSystem	
+0205e17c	120	MenuSystem	FUN_0205e17c		between two MenuSystem	
+0205e29c	108	MenuSystem	FUN_0205e29c		between two MenuSystem	
+0205e3a4	124	MenuSystem	FUN_0205e3a4		between two MenuSystem	
+0205e4c8	f0	MenuSystem	FUN_0205e4c8		between two MenuSystem	
+0205e5b8	68	MenuSystem	FUN_0205e5b8		between two MenuSystem	
+0205e620	30	MenuSystem	FUN_0205e620		between two MenuSystem	
+0205e650	124	MenuSystem	FUN_0205e650		between two MenuSystem	
+0205e774	7c	MenuSystem	FUN_0205e774		between two MenuSystem	
+0205e7f0	12c	MenuSystem	FUN_0205e7f0		between two MenuSystem	
+0205e91c	1fc	MenuSystem	FUN_0205e91c		between two MenuSystem	
+0205eb18	94	MenuSystem	FUN_0205eb18		between two MenuSystem	
+0205ebac	470	MenuSystem	FUN_0205ebac		between two MenuSystem	
+0205f01c	4f4	MenuSystem	FUN_0205f01c		between two MenuSystem	
+0205f510	e8	MenuSystem	FUN_0205f510		between two MenuSystem	
+0205f5f8	178	MenuSystem	FUN_0205f5f8		between two MenuSystem	
+0205f770	6c	MenuSystem	FUN_0205f770		between two MenuSystem	
+0205f7dc	8	MenuSystem	FUN_0205f7dc		between two MenuSystem	
+0205f7e4	1f8	MenuSystem	FUN_0205f7e4		between two MenuSystem	
+0205f9dc	4c	MenuSystem	FUN_0205f9dc		between two MenuSystem	
+0205fa28	1a0	MenuSystem	FUN_0205fa28		between two MenuSystem	
+0205fbc8	1b0	MenuSystem	FUN_0205fbc8		between two MenuSystem	
+0205fd78	2b0	MenuSystem	FUN_0205fd78		between two MenuSystem	
+02060028	13c	MenuSystem	FUN_02060028		between two MenuSystem	
+02060164	f8	MenuSystem	FUN_02060164		between two MenuSystem	
+0206025c	134	MenuSystem	FUN_0206025c		between two MenuSystem	
+02060390	f84	MenuSystem	Menu_buildStatistics	Menu_buildStatistics 0x00010b2c	name	
+02061314	1e0	MenuSystem	FUN_02061314		cut MenuSystem|TextureMappings by calls	
+020614f4	580	MenuSystem	FUN_020614f4		cut MenuSystem|TextureMappings by calls	
+02061a74	40	MenuSystem	FUN_02061a74		cut MenuSystem|TextureMappings by calls	
+02061ab4	358	MenuSystem	FUN_02061ab4		cut MenuSystem|TextureMappings by calls	
+02061e0c	2ec	MenuSystem	FUN_02061e0c		cut MenuSystem|TextureMappings by calls	
+020620f8	a0	MenuSystem	FUN_020620f8		cut MenuSystem|TextureMappings by calls	
+02062198	58	MenuSystem	FUN_02062198		cut MenuSystem|TextureMappings by calls	
+020621f0	70	MenuSystem	FUN_020621f0		cut MenuSystem|TextureMappings by calls	
+02062260	5c	MenuSystem	FUN_02062260		cut MenuSystem|TextureMappings by calls	
+020622bc	c4	MenuSystem	FUN_020622bc		cut MenuSystem|TextureMappings by calls	
+02062380	210	MenuSystem	FUN_02062380		cut MenuSystem|TextureMappings by calls	
+02062590	f0	MenuSystem	FUN_02062590		cut MenuSystem|TextureMappings by calls	
+02062680	170	TextureMappings	FUN_02062680		cut MenuSystem|TextureMappings by calls	
+020627f0	184	TextureMappings	FUN_020627f0		cut MenuSystem|TextureMappings by calls	
+02062974	190	TextureMappings	FUN_02062974		cut MenuSystem|TextureMappings by calls	
+02062b04	468	TextureMappings	TextureMappings_LoadShaders		name	
+02062f6c	60	TextureMappings	FUN_02062f6c		cut TextureMappings|Text by calls	
+02062fcc	30	Text	FUN_02062fcc		cut TextureMappings|Text by calls	
+02062ffc	110	Text	FUN_02062ffc		cut TextureMappings|Text by calls	
+0206310c	118	Text	FUN_0206310c		cut TextureMappings|Text by calls	
+02063224	50	Text	FUN_02063224		cut TextureMappings|Text by calls	
+02063274	1e4	Text	FUN_02063274		cut TextureMappings|Text by calls	
+02063458	64	Text	FUN_02063458		cut TextureMappings|Text by calls	
+020634bc	54	Text	FUN_020634bc		cut TextureMappings|Text by calls	
+02063510	84	Text	FUN_02063510		cut TextureMappings|Text by calls	
+02063594	c4	Text	FUN_02063594		cut TextureMappings|Text by calls	
+02063658	50	Text	FUN_02063658		cut TextureMappings|Text by calls	
+020636a8	140	Text	FUN_020636a8		cut TextureMappings|Text by calls	
+020637e8	a4	Text	FUN_020637e8		cut TextureMappings|Text by calls	
+0206388c	58c	Text	FUN_0206388c		cut TextureMappings|Text by calls	
+02063e18	1c	Text	FUN_02063e18		cut TextureMappings|Text by calls	
+02063e34	18	Text	FUN_02063e34		cut TextureMappings|Text by calls	
+02063e4c	94	Text	FUN_02063e4c		cut TextureMappings|Text by calls	
+02063ee0	80	Text	FUN_02063ee0		cut TextureMappings|Text by calls	
+02063f60	210	Text	FUN_02063f60		cut TextureMappings|Text by calls	
+02064170	264	Text	FUN_02064170		cut TextureMappings|Text by calls	
+020643d4	118	Text	FUN_020643d4		cut TextureMappings|Text by calls	
+020644ec	1e0	Text	FUN_020644ec		cut TextureMappings|Text by calls	
+020646cc	26c	Text	FUN_020646cc		cut TextureMappings|Text by calls	
+02064938	b8	Text	FUN_02064938		cut TextureMappings|Text by calls	
+020649f0	e0	Text	FUN_020649f0		cut TextureMappings|Text by calls	
+02064ad0	e8	Text	FUN_02064ad0		cut TextureMappings|Text by calls	
+02064bb8	a8	Text	FUN_02064bb8		cut TextureMappings|Text by calls	
+02064c60	18	Text	FUN_02064c60		cut TextureMappings|Text by calls	
+02064c78	1d8	Text	Text_FUN_02064c78		name	
+02064e50	48	Text	FUN_02064e50		cut Text|Hud by calls	
+02064e98	7c	Text	FUN_02064e98		cut Text|Hud by calls	
+02064f14	1e8	Text	FUN_02064f14		cut Text|Hud by calls	
+020650fc	4c	Hud	FUN_020650fc		cut Text|Hud by calls	
+02065148	20	Hud	FUN_02065148	FUN_0000002e 0x0000002e	cut Text|Hud by calls	
+02065168	5c	Hud	FUN_02065168		cut Text|Hud by calls	
+020651c4	d0	Hud	FUN_020651c4		cut Text|Hud by calls	
+02065294	1a4	Hud	Hud_addMessage	Hud_addMessage 0x000033bc	name	
+02065438	38	Hud	FUN_02065438		cut Hud|Canvas by calls	
+02065470	b4	Hud	FUN_02065470		cut Hud|Canvas by calls	
+02065524	b0	Hud	FUN_02065524		cut Hud|Canvas by calls	
+020655d4	34	Hud	FUN_020655d4		cut Hud|Canvas by calls	
+02065608	2c	Canvas	FUN_02065608		cut Hud|Canvas by calls	
+02065634	38	Canvas	FUN_02065634		cut Hud|Canvas by calls	
+0206566c	480	Canvas	FUN_0206566c		cut Hud|Canvas by calls	
+02065aec	34	Canvas	Canvas_drawString	Canvas_drawString 0x0000bc4c	name	
+02065b20	6ec	Canvas	Canvas_drawStringRange	Canvas_drawStringRange 0x0000bc7c	name	
+0206620c	400	Canvas	FUN_0206620c		cut Canvas|SaveData by calls	
+0206660c	d4	SaveData	FUN_0206660c		cut Canvas|SaveData by calls	
+020666e0	110	SaveData	FUN_020666e0		cut Canvas|SaveData by calls	
+020667f0	b8	SaveData	FUN_020667f0		cut Canvas|SaveData by calls	
+020668a8	208	SaveData	SaveData_init		name	yes
+02066ab0	d4	SaveData	SaveData_getConfigOffset		name	yes
+02066b84	e8	SaveData	SaveData_getPlayerOffset		name	yes
+02066c6c	f0	SaveData	SaveData_getWorldOffset		name	yes
+02066d5c	1c	SaveData	SaveData_isValidSlot		name	yes
+02066d78	1dc	SaveData	SaveData_copySlot		name	yes
+02066f54	48	SaveData	SaveData_allocSmallBlock		name	yes
+02066f9c	48	SaveData	SaveData_allocPlayerBlock		name	yes
+02066fe4	4c	SaveData	SaveData_allocWorldBlock		name	yes
+02067030	d4	SaveData	SaveData_writeDirectory		name	yes
+02067104	1ac	SaveData	SaveData_retainSlot		name	yes
+020672b0	240	SaveData	SaveData_releaseSlot		name	yes
+020674f0	e0	SaveData	SaveData_allocEntry		name	yes
+020675d0	a0	SaveData	SaveData_rebuildUsed		name	yes
+02067670	b4	SaveData	SaveData_clearSlot		name	yes
+02067724	158	SaveData	SaveData_writeChecksum		name	yes
+0206787c	12c	SaveData	SaveData_verifyChecksum		name	yes
+020679a8	29c	SaveData	SaveData_verifySlot		name	yes
+02067c44	f0	SaveData	FUN_02067c44		between two SaveData	
+02067d34	f0	SaveData	FUN_02067d34		between two SaveData	
+02067e24	f4	SaveData	FUN_02067e24		between two SaveData	
+02067f18	38	SaveData	FUN_02067f18		between two SaveData	
+02067f50	d4	SaveData	SaveData_format		name	yes
+02068024	18	SaveData	SaveData_freeSmallBlocks		name	yes
+0206803c	18	SaveData	SaveData_freePlayerBlocks		name	yes
+02068054	18	SaveData	SaveData_freeWorldBlocks		name	yes
+0206806c	4	SaveData	SaveData_nop		name	yes
+02068070	124	SpellCircle	FUN_02068070		cut SaveData|SpellCircle by calls	
+02068194	ec	SpellCircle	FUN_02068194		cut SaveData|SpellCircle by calls	
+02068280	4c8	SpellCircle	FUN_02068280		cut SaveData|SpellCircle by calls	
+02068748	68	SpellCircle	FUN_02068748		cut SaveData|SpellCircle by calls	
+020687b0	84	SpellCircle	FUN_020687b0		cut SaveData|SpellCircle by calls	
+02068834	104	SpellCircle	FUN_02068834		cut SaveData|SpellCircle by calls	
+02068938	128	SpellCircle	FUN_02068938		cut SaveData|SpellCircle by calls	
+02068a60	a4	SpellCircle	FUN_02068a60		cut SaveData|SpellCircle by calls	
+02068b04	80	SpellCircle	FUN_02068b04		cut SaveData|SpellCircle by calls	
+02068b84	98	SpellCircle	FUN_02068b84		cut SaveData|SpellCircle by calls	
+02068c1c	40	SpellCircle	FUN_02068c1c		cut SaveData|SpellCircle by calls	
+02068c5c	bc	SpellCircle	FUN_02068c5c		cut SaveData|SpellCircle by calls	
+02068d18	60	SpellCircle	SpellCircle_iconPos		name	yes
+02068d78	120	SpellCircle	FUN_02068d78		between two SpellCircle	
+02068e98	11c	SpellCircle	FUN_02068e98		between two SpellCircle	
+02068fb4	2c	SpellCircle	FUN_02068fb4		between two SpellCircle	
+02068fe0	104	SpellCircle	FUN_02068fe0		between two SpellCircle	
+020690e4	9c	SpellCircle	FUN_020690e4		between two SpellCircle	
+02069180	378	SpellCircle	FUN_02069180		between two SpellCircle	
+020694f8	7c	SpellCircle	FUN_020694f8		between two SpellCircle	
+02069574	11c	SpellCircle	FUN_02069574		between two SpellCircle	
+02069690	14	SpellCircle	FUN_02069690		between two SpellCircle	
+020696a4	1a0	SpellCircle	SpellCircle_init		name	yes
+02069844	4d0	SpellCircle	FUN_02069844		between two SpellCircle	
+02069d14	58	SpellCircle	SpellCircle_canCast		name	yes
+02069d6c	e4	sdk/tail	FUN_02069d6c		after the game code	
+02069e50	24	sdk/tail	FUN_02069e50		after the game code	
+02069e74	24	sdk/tail	FUN_02069e74		after the game code	
+02069e98	78	sdk/tail	FUN_02069e98		after the game code	
+02069f10	2c	sdk/tail	FUN_02069f10		after the game code	
+02069f3c	10	sdk/tail	FUN_02069f3c		after the game code	
+02069f4c	10	sdk/tail	FUN_02069f4c		after the game code	
+02069f5c	4c	sdk/tail	FUN_02069f5c		after the game code	
+02069fa8	10	sdk/tail	FUN_02069fa8		after the game code	
+02069fb8	70	sdk/tail	FUN_02069fb8		after the game code	
+0206a028	64	sdk/tail	FUN_0206a028		after the game code	
+0206a08c	264	sdk/tail	FUN_0206a08c		after the game code	
+0206a2f0	120	sdk/tail	FUN_0206a2f0		after the game code	
+0206a410	1bc	sdk/tail	FUN_0206a410		after the game code	
+0206a5cc	50	sdk/tail	FUN_0206a5cc		after the game code	
+0206a61c	54	sdk/tail	FUN_0206a61c		after the game code	
+0206a670	330	sdk/tail	FUN_0206a670		after the game code	
+0206a9a0	84	sdk/tail	FUN_0206a9a0		after the game code	
+0206aa24	40	sdk/tail	FUN_0206aa24		after the game code	
+0206aa64	90	sdk/tail	FUN_0206aa64		after the game code	
+0206aaf4	c8	sdk/tail	FUN_0206aaf4		after the game code	
+0206abbc	30	sdk/tail	FUN_0206abbc		after the game code	
+0206abec	0	sdk/tail	FUN_0206abec		after the game code	
